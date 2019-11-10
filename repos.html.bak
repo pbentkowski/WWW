@@ -402,8 +402,7 @@ h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em
               <p style="margin-left: -27px; width: 578px;"><a href="https://github.com/pbentkowski"><img
                     src="graphics/GitHub_Logo.png" alt="GitHub" title="GitHub"></a><a
                   href="https://bitbucket.org/pbentkowski/">&nbsp;&nbsp;&nbsp; <img
-                    src="file:///home/piotr/Documents/Prywatne/WWW/graphics/bitbucket-logo.png"
-                    alt="BitBucked" title="BitBucked"><br>
+                    src="graphics/bitbucket-logo.png" alt="BitBucked" title="BitBucked"><br>
                 </a></p>
               <p style="margin-left: -27px; width: 578px;"><span style="color: #151815;"><span
                     style="font-family: DejaVu Sans Mono;">Unfortunately, some
