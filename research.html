@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-gb">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Piotr Bentkowski</title>
+    <style type="text/css">
+      a { color: #cc361c; } /* CSS link color */
+html {
+  color: black;
+  background: white none repeat scroll 0% 0%;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+  margin: 0px;
+  padding: 0px;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0px;
+}
+
+fieldset, img {
+  border: 0px none;
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+  font-style: normal;
+  font-weight: normal;
+}
+
+li {
+  list-style: outside none none;
+}
+
+caption, th {
+  text-align: left;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+
+q::before, q::after {
+  content: "";
+}
+
+abbr, acronym {
+  border: 0px none;
+  font-variant: normal;
+}
+
+sup {
+  vertical-align: text-top;
+}
+
+sub {
+  vertical-align: text-bottom;
+}
+
+input, textarea, select {
+}
+
+input, textarea, select {
+}
+
+legend {
+  color: black;
+}
+
+del, ins {
+  text-decoration: none;
+}
+
+body {
+  font: 13px / 1.231 arial helvetica clean sans-serif;
+}
+
+select, input, button, textarea {
+  font: 99% arial helvetica clean sans-serif;
+}
+
+table {
+}
+
+pre, code, kbd, samp, tt {
+  font-family: monospace;
+  line-height: 100%;
+}
+
+body {
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+#ft {
+  clear: both;
+}
+
+#doc, #doc2, #doc3, #doc4, .yui-t1, .yui-t2, .yui-t3, .yui-t4, .yui-t5, .yui-t6, .yui-t7 {
+  margin: auto;
+  text-align: left;
+  width: 57.69em;
+  min-width: 750px;
+}
+
+#doc2 {
+  width: 73.076em;
+}
+
+#doc3 {
+  margin: auto 10px;
+  width: auto;
+}
+
+#doc4 {
+  width: 74.923em;
+}
+
+.yui-b {
+  position: relative;
+}
+
+.yui-b {
+}
+
+#yui-main .yui-b {
+  position: static;
+}
+
+#yui-main, .yui-g .yui-u .yui-g {
+  width: 100%;
+}
+
+.yui-t1 #yui-main, .yui-t2 #yui-main, .yui-t3 #yui-main {
+  float: right;
+  margin-left: -25em;
+}
+
+.yui-t4 #yui-main, .yui-t5 #yui-main, .yui-t6 #yui-main {
+  float: left;
+  margin-right: -25em;
+}
+
+.yui-t1 .yui-b {
+  float: left;
+  width: 12.3077em;
+}
+
+.yui-t1 #yui-main .yui-b {
+  margin-left: 13.3077em;
+}
+
+.yui-t2 .yui-b {
+  float: left;
+  width: 13.8461em;
+}
+
+.yui-t2 #yui-main .yui-b {
+  margin-left: 14.8461em;
+}
+
+.yui-t3 .yui-b {
+  float: left;
+  width: 23.0769em;
+}
+
+.yui-t3 #yui-main .yui-b {
+  margin-left: 24.0769em;
+}
+
+.yui-t4 .yui-b {
+  float: right;
+  width: 13.8456em;
+}
+
+.yui-t4 #yui-main .yui-b {
+  margin-right: 14.8456em;
+}
+
+.yui-t5 .yui-b {
+  float: right;
+  width: 18.4615em;
+}
+
+.yui-t5 #yui-main .yui-b {
+  margin-right: 19.4615em;
+}
+
+.yui-t6 .yui-b {
+  float: right;
+  width: 23.0769em;
+}
+
+.yui-t6 #yui-main .yui-b {
+  margin-right: 24.0769em;
+}
+
+.yui-t7 #yui-main .yui-b {
+  display: block;
+  margin: 0px 0px 1em;
+}
+
+#yui-main .yui-b {
+  float: none;
+  width: auto;
+}
+
+.yui-gb .yui-u, .yui-g .yui-gb .yui-u, .yui-gb .yui-g, .yui-gb .yui-gb, .yui-gb .yui-gc, .yui-gb .yui-gd, .yui-gb .yui-ge, .yui-gb .yui-gf, .yui-gc .yui-u, .yui-gc .yui-g, .yui-gd .yui-u {
+  float: left;
+}
+
+.yui-g .yui-u, .yui-g .yui-g, .yui-g .yui-gb, .yui-g .yui-gc, .yui-g .yui-gd, .yui-g .yui-ge, .yui-g .yui-gf, .yui-gc .yui-u, .yui-gd .yui-g, .yui-g .yui-gc .yui-u, .yui-ge .yui-u, .yui-ge .yui-g, .yui-gf .yui-g, .yui-gf .yui-u {
+  float: right;
+}
+
+.yui-g div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first, .yui-ge div.first, .yui-gf div.first, .yui-g .yui-gc div.first, .yui-g .yui-ge div.first, .yui-gc div.first div.first {
+  float: left;
+}
+
+.yui-g .yui-u, .yui-g .yui-g, .yui-g .yui-gb, .yui-g .yui-gc, .yui-g .yui-gd, .yui-g .yui-ge, .yui-g .yui-gf {
+  width: 49.1%;
+}
+
+.yui-gb .yui-u, .yui-g .yui-gb .yui-u, .yui-gb .yui-g, .yui-gb .yui-gb, .yui-gb .yui-gc, .yui-gb .yui-gd, .yui-gb .yui-ge, .yui-gb .yui-gf, .yui-gc .yui-u, .yui-gc .yui-g, .yui-gd .yui-u {
+  width: 32%;
+  margin-left: 1.99%;
+}
+
+.yui-gb .yui-u {
+}
+
+.yui-gc div.first, .yui-gd .yui-u {
+  width: 66%;
+}
+
+.yui-gd div.first {
+  width: 32%;
+}
+
+.yui-ge div.first, .yui-gf .yui-u {
+  width: 74.2%;
+}
+
+.yui-ge .yui-u, .yui-gf div.first {
+  width: 24%;
+}
+
+.yui-g .yui-gb div.first, .yui-gb div.first, .yui-gc div.first, .yui-gd div.first {
+  margin-left: 0px;
+}
+
+.yui-g .yui-g .yui-u, .yui-gb .yui-g .yui-u, .yui-gc .yui-g .yui-u, .yui-gd .yui-g .yui-u, .yui-ge .yui-g .yui-u, .yui-gf .yui-g .yui-u {
+  width: 49%;
+}
+
+.yui-g .yui-g .yui-u {
+  width: 48.1%;
+}
+
+.yui-g .yui-gb div.first, .yui-gb .yui-gb div.first {
+}
+
+.yui-g .yui-gc div.first, .yui-gd .yui-g {
+  width: 66%;
+}
+
+.yui-gb .yui-g div.first {
+}
+
+.yui-gb .yui-gc div.first, .yui-gb .yui-gd div.first {
+}
+
+.yui-gb .yui-gb .yui-u, .yui-gb .yui-gc .yui-u {
+}
+
+.yui-g .yui-gb .yui-u {
+}
+
+.yui-gb .yui-gd .yui-u {
+}
+
+.yui-gb .yui-gd div.first {
+}
+
+.yui-g .yui-gc .yui-u, .yui-gb .yui-gc .yui-u {
+  width: 32%;
+  margin-right: 0px;
+}
+
+.yui-gb .yui-gc div.first {
+  width: 66%;
+}
+
+.yui-gb .yui-ge .yui-u, .yui-gb .yui-gf .yui-u {
+  margin: 0px;
+}
+
+.yui-gb .yui-gb .yui-u {
+}
+
+.yui-gb .yui-g div.first, .yui-gb .yui-gb div.first {
+}
+
+.yui-gc .yui-g .yui-u, .yui-gd .yui-g .yui-u {
+}
+
+.yui-gb .yui-gd div.first {
+  width: 32%;
+}
+
+.yui-g .yui-gd div.first {
+}
+
+.yui-ge .yui-g {
+  width: 24%;
+}
+
+.yui-gf .yui-g {
+  width: 74.2%;
+}
+
+.yui-gb .yui-ge div.yui-u, .yui-gb .yui-gf div.yui-u {
+  float: right;
+}
+
+.yui-gb .yui-ge div.first, .yui-gb .yui-gf div.first {
+  float: left;
+}
+
+.yui-gb .yui-ge .yui-u, .yui-gb .yui-gf div.first {
+}
+
+.yui-gb .yui-ge div.first, .yui-gb .yui-gf .yui-u {
+}
+
+.yui-ge div.first .yui-gd .yui-u {
+  width: 65%;
+}
+
+.yui-ge div.first .yui-gd div.first {
+  width: 32%;
+}
+
+#bd::after, .yui-g::after, .yui-gb::after, .yui-gc::after, .yui-gd::after, .yui-ge::after, .yui-gf::after {
+  content: ".";
+  display: block;
+  height: 0px;
+  clear: both;
+  visibility: hidden;
+}
+
+#bd, .yui-g, .yui-gb, .yui-gc, .yui-gd, .yui-ge, .yui-gf {
+}
+
+:link {
+  color: #cc361c;
+  text-decoration: none;
+}
+
+:link:active {
+  color: #cc361c;
+  text-decoration: none;
+}
+
+:link:visited {
+  color: #cc361c;
+  text-decoration: none;
+}
+
+</style><style type="text/css">/*
+Copyright (c) 2008, Yahoo! Inc. All rights reserved.
+Code licensed under the BSD License:
+http://developer.yahoo.net/yui/license.txt
+version: 2.6.0
+*/
+h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em 0;}h1,h2,h3,h4,h5,h6,strong{font-weight:bold;}abbr,acronym{border-bottom:1px dotted #000;cursor:help;} em{font-style:italic;}blockquote,ul,ol,dl{margin:1em;}ol,ul,dl{margin-left:2em;}ol li{list-style:decimal outside;}ul li{list-style:disc outside;}dl dd{margin-left:1em;}th,td{border:1px solid #000;padding:.5em;}th{font-weight:bold;text-align:center;}caption{margin-bottom:.5em;text-align:center;}p,fieldset,table,pre{margin-bottom:1em;}input[type=text],input[type=password],textarea{width:12.25em;*width:11.9em;}
+</style><meta name="author" content="Piotr Bentkowski">
+    <meta name="generator" content="BlueGriffon wysiwyg editor">
+    <style type="text/css"></style>
+  </head>
+  <body>
+    <div id="doc" class="yui-t1"> <a href="index.html"><img src="graphics/header_img_03.png"
+          alt="Piotr Bentkowski PhD - Computational biology and modellig" title="Click for Home"></a></div>
+    <div class="yui-t1"><br>
+    </div>
+    <div class="yui-t1">
+      <div id="bd">
+        <div id="yui-main">
+          <div class="yui-b">
+            <div class="yui-g">
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">Here
+                  are some of the projects in which I participate(d). For papers
+                  that resulted from some of them, see the tab <a href="publications.html"><b
+                      style="color: #cc361c;">PUBLICATIONS</b></a>.<br>
+                </span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">Rather
+                  than in a particular subject or model organism, I specialise
+                  in a set of research methods: agent-based modelling, computer
+                  analysis of vast volumes of data. My favourite field is the
+                  boundary of ecology and evolutionary biology.</span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"><br>
+                </span></p>
+              <hr style="color: #333333; margin-left: -27px; margin-right: auto; border-style: solid;">
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="color: #cc361c;"><b><span
+                      style="font-family: DejaVu Sans Mono;">A MODEL OF THE
+                      INFLUENZA'S SPREAD AND EVOLUTION DURING SEASONAL EPIDEMICS
+                      IN FRANCE<br>
+                    </span></b></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">The
+                  influenza virus is a small RNA virus that causes seasonal flu
+                  epidemics, e.g. in France they occur around winter. Flu may
+                  pose a risk of severe complications and even death in
+                  vulnerable individuals. Influenza vaccines exist, but due to
+                  the fast evolution of the virus, their efficiency is limited
+                  only to several similar strains of the virus. And the dominant
+                  strains change annually. The project (conceived by <a href="http://chiara-poletto.weebly.com/"
+                    target="_blank">Chiara Poletto</a>) aims at understanding
+                  how population structure of France and travel patterns
+                  influence the dynamic of the epidemics and evolution of the
+                  influenza virus.</span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">We
+                  use an agent-based and data-driven (<a href="https://www.insee.fr/fr/accueil"
+                    target="_blank">INSEE</a> census) model simulating the
+                  spread of influenza in France developed before (by <a href="http://www.di.unito.it/%7Ebioglio"
+                    target="_blank">Livio Bioglio</a>) and modified by us to
+                  record detailed information on who-infected-who. That allows
+                  for precise tracking of the epidemic demographics and the
+                  spread of the virus. We validate the model with the <a href="https://www.sentiweb.fr/france/fr/?page=maladies"
+                    target="_blank">Réseau Sentinelles</a>’ (RS) disease
+                  surveillance data.<br>
+                </span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">My
+                  job is to modify the original ABM model (written in C++11) to
+                  meet the project's needs, process the INSEE and RS data to
+                  feed them into the model, calibrate parameters using the data
+                  and analyse the output. There's a lot of Python scripting for
+                  automated data processing (including scripts choosing
+                  parameters and launching simulations on their own).<br>
+                </span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span><br>
+                <meta http-equiv="content-type" content="text/html; charset=utf-8">
+              </p>
+              <hr style="color: #333333; margin-left: -27px; margin-right: auto; border-style: solid;">
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="color: #cc361c;"><b><span
+                      style="font-family: DejaVu Sans Mono;">EVOLUTION OF THE
+                      COPY NUMBER VARIATION OF THE MAJOR HISTOCOMATIBILITY
+                      COMPLEX (MHC) GENES : THEORETICAL MODELLING<br>
+                    </span></b></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span><span
+                  style="font-family: DejaVu Sans Mono;">The major
+                  histocompatibility (MHC) proteins are responsible for
+                  self-non-self recognition of molecules, thus play a crucial
+                  role in the defence against pathogens </span><span style="font-family: DejaVu Sans Mono;"><span
+                    style="font-family: DejaVu Sans Mono;"> in all vertebrates</span>.
+                  That triggers a co-evolution race between hosts and pathogens
+                  (the '<a href="http://evolutionbiology.com/evolutionary-principles/red-queen-principle/"
+                    target="_blank">Red-Queen race</a>') what, as many believe,
+                  leads to the observed massive variation of the MHC genes,
+                  making them the most polymorphic gene family in vertebrates.
+                  Among humans, there are ~17,000 alleles known, but the human
+                  genome has only 6-7 loci to harbour MHC genes - it's a supra
+                  singly low number! Some species, e.g. rodents like voles,
+                  passerine birds, fish called sticklebacks have their number of
+                  MHC loci varying between individuals. The model I coded
+                  investigates how the number of pathogens in the environment
+                  and sexual selection impact the <strong>individual copy
+                    number</strong> variation in species.<br>
+                  &nbsp;<br>
+                  We were using prof <a href="https://sites.google.com/site/evobiolab/team/jacek_radwan"
+                    target="_blank">Jacek Radwan</a> many years of experience
+                  researching the MHC genes to design an <a href="https://github.com/pbentkowski/MHC_Evolution">agent-based
+                    model simulating MHC evolution in host-pathogen Red-Queen
+                    race</a>. The model implements a simplified mechanism of
+                  binding of the pathogenic antigens by the MHC protein-binding
+                  region. We simulate each host and pathogen individual with its
+                  unique genome. MHC population diversity and individual copy
+                  number variations emerge as a result of hosts being selected
+                  for pathogen recognition abilities, thus avoiding infection.
+                  Also, we used this framework to test how different mating
+                  rules may impact MHC diversity if we add sexual selection
+                  among hosts.<br>
+                  <br>
+                  My job was to participate in the model design, implemented it,
+                  run all the required simulations, analyse and interpret the
+                  results. The model is written in C++11 in mind for execution
+                  on cluster computers. The analysis is done using Python
+                  scripts.</span></p>
+              <p style="margin-left: -27px; width: 578px;"><br>
+                <span style="font-family: DejaVu Sans Mono;"> </span><span style="font-family: DejaVu Sans Mono;"></span>
+              </p>
+              <hr style="color: #333333; margin-left: -27px; margin-right: auto; border-style: solid;">
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="color: #cc361c;"><b><span
+                      style="font-family: DejaVu Sans Mono;">HOW DIFFERENT
+                      LEVELS OF ENVIRONMENTAL PERTURBATION IMPACT THE EVOLUTION
+                      OF GENOME SIZE AND ADAPTATION ABILITY IN PROKARYOTES </span></b></span><span
+                  style="color: #cc361c;"><b><span style="font-family: DejaVu Sans Mono;">:
+                      THEORETICAL MODELLING</span></b></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">The
+                  size of the genomes of known free-living prokaryotes varies
+                  from ~1.3 mega base-pairs (Mbp) to ~13.0 Mbp, an order of
+                  magnitude. I proposed a possible <a href="https://ueaeprints.uea.ac.uk/50553/">explanation
+                    of this variation due to the variability of the physical
+                    conditions of the environment</a>. In a stable environment,
+                  competition for the resource becomes the main force of
+                  selection and smaller (thus energetically cheaper) genomes are
+                  favoured. In more variable conditions, larger genomes will
+                  dominate, as they have a wider range of response to a less
+                  predictable environment.<br>
+                  <br>
+                  I devolpped an <a href="https://github.com/pbentkowski/GenomeSizeEvolution">agent-based
+                    model of genome evolution in a free-living prokaryotic
+                    population</a>. Using the classic Hutchinson niche space
+                  model, I defined a gene as a Gaussian function over a
+                  corresponding niche dimension. The single cell can have more
+                  than one gene along a given dimension, and the envelope of all
+                  the corresponding responses is considered a full description
+                  of a cell’s phenotype over that dimension. Gene deletion, gene
+                  duplication, and modifying mutations are permitted during
+                  reproduction, so the number of genes and their phenotypic
+                  effect (height and position of the Gaussian envelope) are free
+                  to evolve. The surface under the curve of a gene is fixed to
+                  prevent ‘supergenes’ from occurring. Change of the
+                  environmental conditions is simulated as a bounded random walk
+                  with a varying length of the step (a parameter representing
+                  the variability of the environment). By employing this
+                  approach I can reproduce the phenomenon of genome streamlining
+                  in more stable environments (analogical to, e.g. oligotrophic
+                  gyre regions of the ocean) and genome complexification in
+                  variable environments.</span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">The
+                  model is written in C++ and Python is used to analyse the
+                  results. This was my Ph.D. thesis completed in <a href="http://mocklab.com/"
+                    target="_blank">prof Thomas Mock</a>'s laboratory of marine
+                  microbial genomics.</span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span><br>
+                <span style="font-family: DejaVu Sans Mono;"></span><span style="font-family: DejaVu Sans Mono;"></span>
+              </p>
+              <hr style="color: #333333; margin-left: -27px; margin-right: auto;  border-style: solid;">
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="color: #cc361c;"><b><span
+                      style="font-family: DejaVu Sans Mono;">IMPACT OF
+                      PHARMACEUTICALS AND EXOGENIC HORMONES ON LAKE ZOOPLANKTON
+                      : LAB EXPERIMENTS IN ECOTOXICOLOGY<br>
+                    </span></b></span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">The
+                  drugs used by humans also have a biological impact on other
+                  organism sharing similar biochemical pathways (due to shared
+                  evolutionary history). And we're releasing then into the
+                  environment. We tested how hormone melatonin (my M.Sc.
+                  project) impacts the diurnal migration and life-history traits
+                  of a freshwater crustacean <em>Daphnia magna</em> (water
+                  flea). I also took part in investigating how antidepressant
+                  drugs impact freshwater fish anti-predatory behaviour.<br>
+                  &nbsp;<br>
+                  I took part in the design of the experiments and later set
+                  them up. I developed an experimental setup that allowed for <a
+                    href="https://www.researchgate.net/publication/226083801_Role_of_melatonin_in_the_control_of_depth_distribution_of_Daphnia_magna"
+                    target="_blank">night me surveillance of animals using IR
+                    light</a> invisible to them. Part of my studies under <a href="http://www.hydro.biol.uw.edu.pl/en/joanna-pijanowska-prof-dr-hab.html"
+                    target="_blank">prof Joanna Pijanowska</a>.<br>
+                </span></p>
+              <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;"><br>
+                </span></p>
+            </div>
+          </div>
+        </div>
+        <b style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"></span></b>
+        <div class="yui-b"><b style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"><a
+                href="bio.html">BIO</a><br>
+              <br>
+              <a href="publications.html">PUBLICATIONS</a><br>
+              <br>
+            </span></b><b style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"><a
+                href="research.html"><b style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"></span></b></a><b
+                style="color: #cc3210;"><a href="research.html">RESEARCH</a></b></span><br>
+          </b><br>
+          <b style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"><b
+                style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"><a
+                    href="repos.html">CODE_REPOS</a><br>
+                </span></b> <br>
+              <a href="activism.html">ACTIVISM</a><br>
+              <br>
+              <a href="https://twitter.com/PiterBentkowski" target="_blank">TWITTER<span
+                  style="color: #cc3210;"></span></a><br>
+              <br>
+              <a href="https://www.linkedin.com/in/piotr-bentkowski/" target="_blank">LINKEDIN</a><br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+              <br>
+            </span></b></div>
+      </div>
+      <div id="ft">
+        <hr style="color: black;">
+        <p style="text-align: center;"><span style="font-family: DejaVu Sans;">©
+            2019 Piotr Bentkowski&nbsp; </span><span style="font-family: DejaVu Sans;">-&nbsp;
+            www.bentkowski.net</span><br>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
