@@ -382,7 +382,7 @@ h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em
     <style type="text/css"></style>
   </head>
   <body>
-    <div id="doc" class="yui-t1"> <a href="index.html"><img src="file:///home/piotr/Documents/Prywatne/WWW/graphics/header_img_03.png"
+    <div id="doc" class="yui-t1"> <a href="index.html"><img src="graphics/header_img_03.png"
           alt="Piotr Bentkowski PhD - Computational biology and modellig" title="Click for Home"></a></div>
     <div class="yui-t1"><br>
     </div>
@@ -393,15 +393,16 @@ h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em
             <div class="yui-g">
               <p style="margin-left: -27px; width: 578px;"><span style="font-family: DejaVu Sans Mono;">My
                   code can be found in two, mostly identical, repositories.
-                  Bitbucket provides (used to provide?) a private repository for
-                  scientists with university affiliation, what is convenient for
-                  ongoing projects, but everyone is on GitHub these days! And
-                  this is the place where are my published projects.</span><a href="https://github.com/pbentkowski"><br>
+                  Bitbucket provides (or at least used to) private repositories
+                  for scientists with university affiliation, what is convenient
+                  for ongoing projects, but everyone is on GitHub these days!
+                  And this is the place where are my published projects.</span><a
+                  href="https://github.com/pbentkowski"><br>
                 </a></p>
               <p style="margin-left: -27px; width: 578px;"><a href="https://github.com/pbentkowski"><img
-                    src="file:///home/piotr/Documents/Prywatne/WWW/graphics/GitHub_Logo.png"
-                    alt="GitHub" title="GitHub"></a><a href="https://bitbucket.org/pbentkowski/">&nbsp;&nbsp;&nbsp;
-                  <img src="file:///home/piotr/Documents/Prywatne/WWW/graphics/bitbucket-logo.png"
+                    src="graphics/GitHub_Logo.png" alt="GitHub" title="GitHub"></a><a
+                  href="https://bitbucket.org/pbentkowski/">&nbsp;&nbsp;&nbsp; <img
+                    src="file:///home/piotr/Documents/Prywatne/WWW/graphics/bitbucket-logo.png"
                     alt="BitBucked" title="BitBucked"><br>
                 </a></p>
               <p style="margin-left: -27px; width: 578px;"><span style="color: #151815;"><span

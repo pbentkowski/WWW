@@ -428,12 +428,13 @@ h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em
               <br>
               <a href="publications.html">PUBLICATIONS</a><br>
               <br>
-              PROJECTS<br>
+              <a href="projects.html">PROJECTS</a><br>
             </span></b><br>
           <b style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"><b
-                style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;">CODE_REPOS<br>
+                style="color: #cc3210;"><span style="font-family: DejaVu Sans Mono;"><a
+                    href="repos.html">CODE_REPOS</a><br>
                 </span></b> <br>
-              ACTIVISM<br>
+              <a href="activism.html">ACTIVISM</a><br>
               <br>
               <a href="https://twitter.com/PiterBentkowski" target="_blank">TWITTER<span
                   style="color: #cc3210;"></span></a><br>
