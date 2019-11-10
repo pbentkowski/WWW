@@ -382,7 +382,7 @@ h1{font-size:138.5%;}h2{font-size:123.1%;}h3{font-size:108%;}h1,h2,h3{margin:1em
     <style type="text/css"></style>
   </head>
   <body>
-    <div id="doc" class="yui-t1"><a href="index.html"><img src="file:///home/piotr/Documents/Prywatne/WWW/graphics/header_img_03.png"
+    <div id="doc" class="yui-t1"><a href="index.html"><img src="graphics/header_img_03.png"
           alt="Piotr Bentkowski PhD - Computational biology and modellig" title="Click for Home"></a>
       <div><br>
       </div>
