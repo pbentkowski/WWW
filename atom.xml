@@ -4,7 +4,7 @@
  <title>PIOTR BENTKOWSKI, PhD</title>
  <link href="https://bentkowski.net/atom.xml" rel="self"/>
  <link href="https://bentkowski.net/"/>
- <updated>2020-03-01T00:40:22+01:00</updated>
+ <updated>2020-03-01T00:50:54+01:00</updated>
  <id>https://bentkowski.net</id>
  <author>
    <name>Piotr Bentkowski</name>
@@ -31,6 +31,12 @@
 
 &lt;ul&gt;
   &lt;li&gt;
+    &lt;p&gt;The &lt;strong&gt;” founder effect”&lt;/strong&gt; citation - you’ve discovered a previously unknown phenomenon of nature or the human mind. This discovery became the foundation of the citing party’s research, and she devoted half of the introduction to discussing your results. Later she presents her findings in a critical comparison with yours. Kudos! But you get only one point to your Hirsch index.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;“The method (wo)man”&lt;/strong&gt; - you’ve come up with a new and better approach to the problem. The citing party uses your research method all the way in their work — still one point.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
     &lt;p&gt;The &lt;strong&gt;“it’s fresh stuff”&lt;/strong&gt; citation - the citing party wants to show that he is in the avant-garde of research in his field, not an intellectual hermit. So he must first quote a couple of fairly recent papers that approached a similar topic. If you have published a paper in the last three years and its title in 30% consists of keywords relevant to the author, you can be sure that your article will be cited. Not necessarily read, though.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -43,16 +49,10 @@
     &lt;p&gt;&lt;strong&gt;Cited by mistake&lt;/strong&gt; - some well-known physicist has the same surname as you and the citation managing software suggested the wrong paper (yup, I know a case where a friend was cited by mistake, in an unrelated field of research).&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;“CitePal”&lt;/strong&gt; system - the citing party is a good pal of yours. You’re citing each other’s work and some other amigos you work with. Just like that, regardless of the relevance of cited work. It’s called a &lt;em&gt;citation farm&lt;/em&gt; and it’s a foul play. But don’t worry. Universities in many countries still don’t show a red card for that.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;” founder effect”&lt;/strong&gt; citation - you’ve discovered a previously unknown phenomenon of nature or the human mind. This discovery became the foundation of the citing party’s research, and she devoted half of the introduction to discussing your results. Later she presents her findings in a critical comparison with yours. Kudos! But you still get only one point to your Hirsch index.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;“The method (wo)man”&lt;/strong&gt; - you’ve come up with a new and better approach to the problem. The citing party uses your research method all the way in their work — still one point.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;p&gt;The &lt;strong&gt;” sorry, but NO!”&lt;/strong&gt; citation - the citing party was researching same stuff but some time later. And he found you made a mistake. But you were the first one who got published! So it is he who has to exercise his writing skills to avoid saying that you can’t do science! But the points are still counting.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The &lt;strong&gt;“CitePal”&lt;/strong&gt; system - the citing party is a good pal of yours. You’re citing each other’s work and some other amigos you work with. Just like that, regardless of the relevance of cited work. It’s called a &lt;em&gt;citation farm&lt;/em&gt; and it’s a foul play. But don’t worry. Universities in many countries still don’t show a red card for that.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;Anti-citation&lt;/strong&gt; - you have been exposed as a fraud. In the scientific press, they write that your publication is fake data, hooliganism and plagiarism. Have you considered filing a lawsuit?&lt;/p&gt;
@@ -60,8 +60,7 @@
 &lt;/ul&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;This piece was first published in Polish in now discontinued blog series run by 
-“&lt;a href=&quot;http://obywatelenauki.pl/about-us/&quot;&gt;Obywatele Nauki&lt;/a&gt;”.&lt;/p&gt;
+&lt;p&gt;I published the first version of this piece in Polish in now discontinued blog series run by “&lt;a href=&quot;http://obywatelenauki.pl/about-us/&quot;&gt;Obywatele Nauki&lt;/a&gt;”.&lt;/p&gt;
 </content>
  </entry>
  
