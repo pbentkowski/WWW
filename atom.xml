@@ -4,7 +4,7 @@
  <title>PIOTR BENTKOWSKI, PhD</title>
  <link href="https://bentkowski.net/atom.xml" rel="self"/>
  <link href="https://bentkowski.net/"/>
- <updated>2020-03-01T00:23:23+01:00</updated>
+ <updated>2020-03-01T00:40:22+01:00</updated>
  <id>https://bentkowski.net</id>
  <author>
    <name>Piotr Bentkowski</name>
@@ -102,7 +102,7 @@
  </entry>
  
  <entry>
-   <title>Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens' mutation rate shape the MHC copy number among individuals variation is out!</title>
+   <title>Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens' mutation rate shape the individual MHC copy number is out!</title>
    <link href="https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/"/>
    <updated>2019-05-17T00:00:00+02:00</updated>
    <id>https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution</id>
