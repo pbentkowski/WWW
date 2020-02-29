@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>PIOTR BENTKOWSKI, PhD</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-02-29T03:19:49+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Piotr Bentkowski</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Our article showing that the sexual selection can both inflate or deflate MHC gene number is in the wild!</title>
+   <link href="http://localhost:4000/2020/02/26/prsb-paper-out/"/>
+   <updated>2020-02-26T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/02/26/prsb-paper-out</id>
+   <content type="html">&lt;p&gt;Some time ego I did a post-doc in the &lt;a href=&quot;http://evobio.home.amu.edu.pl/&quot;&gt;Evolutionary Biology Group&lt;/a&gt;, a lab run by prof Jacek Radwan at Adam Mickiewicz University in Poznań. I was working on the evolution of copy number variation of the major histocompatibility complex (MHC) genes. MHC genes code for molecules binding fragments of proteins from both self and pathogens thus constituting one of the elements of the immune system. They are found in all jawed vertebrates.
+MHC proteins can also ‘recognize’ other individuals of the same species (hence problems with organ transplants) and they are known to impact mating preference in animals (including humans). Our work focused on the question of how different mating rules:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Preference for mates with the smallest number of identical MHC variants&lt;/li&gt;
+  &lt;li&gt;Preference for mates with a minimal proportion of shared identical MHC variants within the sum of variants in both partners&lt;/li&gt;
+  &lt;li&gt;Preference for mates with the largest number of MHC variants different from the chooser&lt;/li&gt;
+  &lt;li&gt;No preference, just random matching of mates&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;will impact an individual’s number of MHC variants. It turns out our simulations showed that mating preferences for MHC dissimilarity might have significant consequences for the evolution of MHC gene family expansion. Differences in specific mechanisms of mating rules can lead to very different outcomes and have the potential to explain interspecific differences in the number of MHC genes.&lt;/p&gt;
+
+&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Major histocompatibility complex (MHC)-based mating rules can evolve as a way to avoid inbreeding or to increase offspring immune competence. While the role of mating preference in shaping the MHC diversity in vertebrates has been acknowledged, its impact on individual MHC diversity has not been considered. Here, we use computer simulations to investigate how simple mating rules favouring MHC-dissimilar partners affect the evolution of the number of MHC variants in individual genomes, accompanying selection for resistance to parasites. We showed that the effect of such preferences could sometimes be dramatic. If preferences are aimed at avoiding identical alleles, the equilibrium number of MHC alleles is much smaller than under random mating. However, if the mating rule minimizes the ratio of shared to different alleles in partners, MHC number is higher than under random mating. Additionally, our simulations revealed that a negative correlation between the numbers of MHC variants in mated individuals can arise from simple rules of MHC-disassortative mating. Our results reveal unexpected potential of MHC-based mating preferences to drive MHC gene family expansions or contractions and highlight the need to study the mechanistic basis of such preferences, which is currently poorly understood.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The paper was published in the &lt;a href=&quot;https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2706&quot;&gt;&lt;strong&gt;Proceeding of the Royal Society B: Biological Sciences&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Cite:&lt;/p&gt;
+&lt;div class=&quot;message&quot;&gt;
+  Bentkowski P, Radwan J. 2020 Mating preferences can drive expansion or contraction of major histocompatibility complex gene family. Proc. R. Soc. B 287:20192706. http://dx.doi.org/10.1098/rspb.2019.2706
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+
+</feed>
