@@ -4,7 +4,7 @@
  <title>PIOTR BENTKOWSKI, PhD</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-02-29T15:13:54+01:00</updated>
+ <updated>2020-02-29T15:27:13+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Piotr Bentkowski</name>
@@ -34,6 +34,9 @@ MHC proteins can also ‘recognize’ other individuals of the same species (hen
 &lt;blockquote&gt;
   &lt;p&gt;Major histocompatibility complex (MHC)-based mating rules can evolve as a way to avoid inbreeding or to increase offspring immune competence. While the role of mating preference in shaping the MHC diversity in vertebrates has been acknowledged, its impact on individual MHC diversity has not been considered. Here, we use computer simulations to investigate how simple mating rules favouring MHC-dissimilar partners affect the evolution of the number of MHC variants in individual genomes, accompanying selection for resistance to parasites. We showed that the effect of such preferences could sometimes be dramatic. If preferences are aimed at avoiding identical alleles, the equilibrium number of MHC alleles is much smaller than under random mating. However, if the mating rule minimizes the ratio of shared to different alleles in partners, MHC number is higher than under random mating. Additionally, our simulations revealed that a negative correlation between the numbers of MHC variants in mated individuals can arise from simple rules of MHC-disassortative mating. Our results reveal unexpected potential of MHC-based mating preferences to drive MHC gene family expansions or contractions and highlight the need to study the mechanistic basis of such preferences, which is currently poorly understood.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/public/postPics/2020-02-26-fig-1.png&quot; alt=&quot;Figure 1. The effect of MHC-based mating rules on MHC individual copy number&quot; /&gt;
+&lt;em&gt;&lt;strong&gt;Fig.1.&lt;/strong&gt; The effect of MHC-based mating rules minimising the number (MinShared), minimising the proportion (PropShared) of shared variants, and maximising the number of different variants (MaxDiffer), on the number of unique MHC variants in an individual, compared to random mating (Random).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The paper was published in the &lt;a href=&quot;https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2706&quot;&gt;&lt;strong&gt;Proceeding of the Royal Society B: Biological Sciences&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
 
