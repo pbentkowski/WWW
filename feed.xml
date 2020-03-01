@@ -1,23 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-
- <title>PIOTR BENTKOWSKI, PhD</title>
- <link href="https://bentkowski.net/atom.xml" rel="self"/>
- <link href="https://bentkowski.net/"/>
- <updated>2020-03-01T17:26:39+01:00</updated>
- <id>https://bentkowski.net</id>
- <author>
-   <name>Piotr Bentkowski</name>
-   <email></email>
- </author>
-
- 
- <entry>
-   <title>All the different ways and reason your papers get cited in the scientific literature</title>
-   <link href="https://bentkowski.net/2020/02/29/different-ways-of-getting-cited/"/>
-   <updated>2020-02-29T00:00:00+01:00</updated>
-   <id>https://bentkowski.net/2020/02/29/different-ways-of-getting-cited</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/postPics/2020-02-29-piramida.jpg&quot; alt=&quot;Doodling on a scientific paper&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://bentkowski.net/feed.xml" rel="self" type="application/atom+xml" /><link href="https://bentkowski.net/" rel="alternate" type="text/html" /><updated>2020-03-01T17:26:39+01:00</updated><id>https://bentkowski.net/feed.xml</id><title type="html">PIOTR BENTKOWSKI, PhD</title><subtitle>&lt;div style=&quot;width:100%;text-align:center;&quot;&gt;&lt;img src=&quot;/public/piter_img_03.png&quot;&gt;&lt;/div&gt;&lt;br&gt;&lt;b&gt;&gt;&lt;/b&gt; Computational biologist and modeller working in epidemiology and evolutionary biology. Coding in Python &amp;amp; C++</subtitle><author><name>Piotr Bentkowski</name></author><entry><title type="html">All the different ways and reason your papers get cited in the scientific literature</title><link href="https://bentkowski.net/2020/02/29/different-ways-of-getting-cited/" rel="alternate" type="text/html" title="All the different ways and reason your papers get cited in the scientific literature" /><published>2020-02-29T00:00:00+01:00</published><updated>2020-02-29T00:00:00+01:00</updated><id>https://bentkowski.net/2020/02/29/different-ways-of-getting-cited</id><content type="html" xml:base="https://bentkowski.net/2020/02/29/different-ways-of-getting-cited/">&lt;p&gt;&lt;img src=&quot;/public/postPics/2020-02-29-piramida.jpg&quot; alt=&quot;Doodling on a scientific paper&quot; /&gt;
 &lt;em&gt;I found this research paper on evolution very inspiring. In a way.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;The well known scientific proverb says:&lt;/p&gt;
@@ -66,16 +47,7 @@
 &lt;/ul&gt;
 &lt;hr /&gt;
 
-&lt;p&gt;I published the first version of this piece in Polish in now discontinued blog series run by “&lt;a href=&quot;http://obywatelenauki.pl/about-us/&quot;&gt;Obywatele Nauki&lt;/a&gt;”.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Our paper showing that the sexual selection can both inflate or deflate MHC gene number is in the wild!</title>
-   <link href="https://bentkowski.net/2020/02/26/prsb-paper-out/"/>
-   <updated>2020-02-26T00:00:00+01:00</updated>
-   <id>https://bentkowski.net/2020/02/26/prsb-paper-out</id>
-   <content type="html">&lt;p&gt;Some time ago, I did a post-doc in the &lt;a href=&quot;http://evobio.home.amu.edu.pl/&quot;&gt;Evolutionary Biology Group&lt;/a&gt;, a lab run by prof Jacek Radwan at Adam Mickiewicz University in Poznań. I was working on the evolution of copy number variation of the major histocompatibility complex (MHC) genes. MHC genes code for molecules binding fragments of proteins from both self and pathogens thus constituting one of the elements of the immune system. They are found in all jawed vertebrates. MHC proteins can also ‘recognize’ other individuals of the same species (hence problems with organ transplants), and they are known to impact mating preference in animals (including humans). Our work focused on the question of how different mating rules:&lt;/p&gt;
+&lt;p&gt;I published the first version of this piece in Polish in now discontinued blog series run by “&lt;a href=&quot;http://obywatelenauki.pl/about-us/&quot;&gt;Obywatele Nauki&lt;/a&gt;”.&lt;/p&gt;</content><author><name>Piotr Bentkowski</name></author><summary type="html">I found this research paper on evolution very inspiring. In a way.</summary></entry><entry><title type="html">Our paper showing that the sexual selection can both inflate or deflate MHC gene number is in the wild!</title><link href="https://bentkowski.net/2020/02/26/prsb-paper-out/" rel="alternate" type="text/html" title="Our paper showing that the sexual selection can both inflate or deflate MHC gene number is in the wild!" /><published>2020-02-26T00:00:00+01:00</published><updated>2020-02-26T00:00:00+01:00</updated><id>https://bentkowski.net/2020/02/26/prsb-paper-out</id><content type="html" xml:base="https://bentkowski.net/2020/02/26/prsb-paper-out/">&lt;p&gt;Some time ago, I did a post-doc in the &lt;a href=&quot;http://evobio.home.amu.edu.pl/&quot;&gt;Evolutionary Biology Group&lt;/a&gt;, a lab run by prof Jacek Radwan at Adam Mickiewicz University in Poznań. I was working on the evolution of copy number variation of the major histocompatibility complex (MHC) genes. MHC genes code for molecules binding fragments of proteins from both self and pathogens thus constituting one of the elements of the immune system. They are found in all jawed vertebrates. MHC proteins can also ‘recognize’ other individuals of the same species (hence problems with organ transplants), and they are known to impact mating preference in animals (including humans). Our work focused on the question of how different mating rules:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Preference for mates with the smallest number of identical MHC variants&lt;/li&gt;
@@ -102,16 +74,7 @@
   Bentkowski P, Radwan J. 2020 Mating preferences can drive expansion or contraction of major histocompatibility complex gene family. Proc. R. Soc. B 287:20192706. http://dx.doi.org/10.1098/rspb.2019.2706
 &lt;/div&gt;
 
-&lt;p&gt;The code of this project can be found at &lt;a href=&quot;https://github.com/pbentkowski/MHC_Evolution&quot;&gt;&lt;strong&gt;my GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens' mutation rate shape the individual MHC copy number is out!</title>
-   <link href="https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/"/>
-   <updated>2019-05-17T00:00:00+02:00</updated>
-   <id>https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution</id>
-   <content type="html">&lt;p&gt;MHC genes, which code for proteins responsible for presenting pathogen-derived antigens to the host immune system, show huge copy-number variation both between and within species. However, the evolutionary forces driving this variation are not understood very well. We used computer simulations to investigate whether the evolution of the number of MHC variants in the genome can be shaped by the number of pathogen species the host population encounters (pathogen richness).&lt;/p&gt;
+&lt;p&gt;The code of this project can be found at &lt;a href=&quot;https://github.com/pbentkowski/MHC_Evolution&quot;&gt;&lt;strong&gt;my GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Piotr Bentkowski</name></author><summary type="html">Some time ago, I did a post-doc in the Evolutionary Biology Group, a lab run by prof Jacek Radwan at Adam Mickiewicz University in Poznań. I was working on the evolution of copy number variation of the major histocompatibility complex (MHC) genes. MHC genes code for molecules binding fragments of proteins from both self and pathogens thus constituting one of the elements of the immune system. They are found in all jawed vertebrates. MHC proteins can also ‘recognize’ other individuals of the same species (hence problems with organ transplants), and they are known to impact mating preference in animals (including humans). Our work focused on the question of how different mating rules: Preference for mates with the smallest number of identical MHC variants Preference for mates with a minimal proportion of shared identical MHC variants within the sum of variants in both partners Preference for mates with the largest number of MHC variants different from the chooser No preference, just random matching of mates will impact an individual’s number of MHC variants? It turns out our simulations showed that mating preferences for MHC dissimilarity might have significant consequences for the evolution of MHC gene family expansion. Differences in specific mechanisms of mating rules can lead to very different outcomes and have the potential to explain interspecific differences in the number of MHC genes. Abstract Major histocompatibility complex (MHC)-based mating rules can evolve as a way to avoid inbreeding or to increase offspring immune competence. While the role of mating preference in shaping the MHC diversity in vertebrates has been acknowledged, its impact on individual MHC diversity has not been considered. Here, we use computer simulations to investigate how simple mating rules favouring MHC-dissimilar partners affect the evolution of the number of MHC variants in individual genomes, accompanying selection for resistance to parasites. We showed that the effect of such preferences could sometimes be dramatic. If preferences are aimed at avoiding identical alleles, the equilibrium number of MHC alleles is much smaller than under random mating. However, if the mating rule minimizes the ratio of shared to different alleles in partners, MHC number is higher than under random mating. Additionally, our simulations revealed that a negative correlation between the numbers of MHC variants in mated individuals can arise from simple rules of MHC-disassortative mating. Our results reveal unexpected potential of MHC-based mating preferences to drive MHC gene family expansions or contractions and highlight the need to study the mechanistic basis of such preferences, which is currently poorly understood. Fig.1. The effect of MHC-based mating rules minimising the number (MinShared), minimising the proportion (PropShared) of shared variants, and maximising the number of different variants (MaxDiffer), on the number of unique MHC variants in an individual, compared to random mating (Random). The paper was published in the Proceeding of the Royal Society B: Biological Sciences. Cite: Bentkowski P, Radwan J. 2020 Mating preferences can drive expansion or contraction of major histocompatibility complex gene family. Proc. R. Soc. B 287:20192706. http://dx.doi.org/10.1098/rspb.2019.2706 The code of this project can be found at my GitHub repository.</summary></entry><entry><title type="html">Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens’ mutation rate shape the individual MHC copy number is out!</title><link href="https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/" rel="alternate" type="text/html" title="Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens' mutation rate shape the individual MHC copy number is out!" /><published>2019-05-17T00:00:00+02:00</published><updated>2019-05-17T00:00:00+02:00</updated><id>https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution</id><content type="html" xml:base="https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/">&lt;p&gt;MHC genes, which code for proteins responsible for presenting pathogen-derived antigens to the host immune system, show huge copy-number variation both between and within species. However, the evolutionary forces driving this variation are not understood very well. We used computer simulations to investigate whether the evolution of the number of MHC variants in the genome can be shaped by the number of pathogen species the host population encounters (pathogen richness).&lt;/p&gt;
 
 &lt;p&gt;The majority of MHC research has focused on amino acid sequence polymorphism. However, an aspect of MHC diversity that has received less attention is the number of MHC variants carried by individuals. Expressing many MHC molecules could ensure that an individual could present antigens of most pathogen species encountered, but this comes at a cost, such as enhanced negative selection on lymphocytes leading to holes in T-cell receptor repertoire. The observed number of MHC variants carried by individuals is typically much lower than the number found in the population. For example, in humans, there are 6–7 classical MHC loci, allowing for up to 12–14 different variants in a fully heterozygous individual. In contrast, the number of currently identified MHC alleles summed across those loci in the human population exceeds 17,000 (IPD-IMGT/HLA Database, Release 3.30.0).&lt;/p&gt;
 
@@ -130,9 +93,4 @@
 number. PLoS Comput Biol 15(5): e1007015. https://doi.org/10.1371/journal.pcbi.1007015
 &lt;/div&gt;
 
-&lt;p&gt;The code of this project can be found at &lt;a href=&quot;https://github.com/pbentkowski/MHC_Evolution&quot;&gt;&lt;strong&gt;my GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
- </entry>
- 
-
-</feed>
+&lt;p&gt;The code of this project can be found at &lt;a href=&quot;https://github.com/pbentkowski/MHC_Evolution&quot;&gt;&lt;strong&gt;my GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;</content><author><name>Piotr Bentkowski</name></author><summary type="html">MHC genes, which code for proteins responsible for presenting pathogen-derived antigens to the host immune system, show huge copy-number variation both between and within species. However, the evolutionary forces driving this variation are not understood very well. We used computer simulations to investigate whether the evolution of the number of MHC variants in the genome can be shaped by the number of pathogen species the host population encounters (pathogen richness).</summary></entry></feed>
