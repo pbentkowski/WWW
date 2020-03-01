@@ -4,7 +4,7 @@
  <title>PIOTR BENTKOWSKI, PhD</title>
  <link href="https://bentkowski.net/atom.xml" rel="self"/>
  <link href="https://bentkowski.net/"/>
- <updated>2020-03-01T01:38:39+01:00</updated>
+ <updated>2020-03-01T02:13:09+01:00</updated>
  <id>https://bentkowski.net</id>
  <author>
    <name>Piotr Bentkowski</name>
@@ -17,7 +17,10 @@
    <link href="https://bentkowski.net/2020/02/29/different-ways-of-getting-cited/"/>
    <updated>2020-02-29T00:00:00+01:00</updated>
    <id>https://bentkowski.net/2020/02/29/different-ways-of-getting-cited</id>
-   <content type="html">&lt;p&gt;The well known scientific proverb says:&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/postPics/2020-02-29-piramida.jpg&quot; alt=&quot;Doodling on a scientific paper&quot; /&gt;
+&lt;em&gt;I found this research paper on evolution very inspiring. In a way.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The well known scientific proverb says:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Don’t judge a book by its cover. Judge it by how often it’s cited!&lt;/p&gt;
