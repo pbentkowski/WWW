@@ -4,7 +4,7 @@
  <title>PIOTR BENTKOWSKI, PhD</title>
  <link href="https://bentkowski.net/atom.xml" rel="self"/>
  <link href="https://bentkowski.net/"/>
- <updated>2020-03-01T17:26:39+01:00</updated>
+ <updated>2020-03-01T17:37:11+01:00</updated>
  <id>https://bentkowski.net</id>
  <author>
    <name>Piotr Bentkowski</name>
@@ -17,57 +17,7 @@
    <link href="https://bentkowski.net/2020/02/29/different-ways-of-getting-cited/"/>
    <updated>2020-02-29T00:00:00+01:00</updated>
    <id>https://bentkowski.net/2020/02/29/different-ways-of-getting-cited</id>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/postPics/2020-02-29-piramida.jpg&quot; alt=&quot;Doodling on a scientific paper&quot; /&gt;
-&lt;em&gt;I found this research paper on evolution very inspiring. In a way.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The well known scientific proverb says:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Don’t judge a book by its cover. Judge it by how often it’s cited!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Citing has become one of the most critical determinants of the quality of scientific pursuit. Originally &lt;em&gt;citation metrics&lt;/em&gt;, a sub-field of bibliometrics,  was applied to scientific magazines and was supposed to help librarians decide whether a given journal is worth subscribing to or not. Of course, publishing houses circumvented this problem. For example, by &lt;a href=&quot;http://thecostofknowledge.com/&quot;&gt;selling subscriptions in bundles of several titles, where some are important in their field, and some others are instead just recycling paper covered in paint&lt;/a&gt;. But I will not write about this issue today! These days &lt;em&gt;cytometry&lt;/em&gt; has also affected individual researchers.&lt;/p&gt;
-
-&lt;p&gt;It has become important how often we &lt;em&gt;release papers&lt;/em&gt;, as it is said in scientific jargon for getting published. And how often other researchers cite these papers. Such an approach has its advantages, and it also has &lt;a href=&quot;http://www.nature.com/news/the-focus-on-bibliometrics-makes-papers-less-useful-1.16706&quot;&gt;severe drawbacks&lt;/a&gt;, and &lt;a href=&quot;https://www.nature.com/articles/d41586-020-00335-7&quot;&gt;ways of &lt;em&gt;hacking&lt;/em&gt; this system have been developed&lt;/a&gt;. But today it is not about that either!&lt;/p&gt;
-
-&lt;p&gt;In such a system, these citations count as points. Just like credits for taking classes by undergrad students. When cited, you get the point added to, e.g. your &lt;a href=&quot;https://en.wikipedia.org/wiki/H-index&quot;&gt;Hirsch index&lt;/a&gt;. In some countries, e.g. my homeland, Poland, it’s very important for one’s career progress! But are all citations equal like souls are equal in the eyes of the Creator? I distinguish several ways to be cited:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;” founder effect”&lt;/strong&gt; citation - you’ve discovered a previously unknown phenomenon of nature or the human mind. This discovery became the foundation of the citing party’s research, and she devoted half of the introduction to discussing your results. Later she presents her findings in a critical comparison with yours. Kudos! But you get only one point to your Hirsch index.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;“The method (wo)man”&lt;/strong&gt; - you’ve come up with a new and better approach to the problem. The citing party uses your research method all the way in their work — still one point.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;“I need that number”&lt;/strong&gt; citation - your paper provided a fine detail to the citing party work, e.g. she estimated how many insects are there in the world. And you happened to calculate all the flies some time before. All of them. All.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;“it’s fresh stuff”&lt;/strong&gt; citation - the citing party wants to show that he is in the avant-garde of research in his field, not an intellectual hermit. So he must first quote a couple of fairly recent papers that approached a similar topic. If you have published a paper in the last three years and its title in 30% consists of keywords relevant to the author, you can be sure that your article will be cited. Not necessarily read, though.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;“I also wear shoes”&lt;/strong&gt; citation - the author wants to show that her research method is not chosen because the cosmic superconsciousness directly transmitted it to her brain, but because it is a widely accepted standard in her field. And you just published something relatively recently and used the same methods. Yup, a citation is coming! For example, &lt;em&gt;We’ve used laboratory mice to study how mice choose cheese, which is the standard in mice research (Felis et al., 2019)&lt;/em&gt;. I also have the impression that being named something easy to remember, like “John Smith” rather than, for example, “Aditya Govindamadipurusham” helps here a bit.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;“vacuum cleaner”&lt;/strong&gt; citation - the citing party must demonstrate, e.g. to his PhD advertiser, that he has read all the relevant literature on the subject. So he sucks up everything Google Scholar suggests to him. It is enough that the title of your paper has at least two keywords relevant to the citing party.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Cited by mistake&lt;/strong&gt; - some well-known physicist has the same surname as you and the citation managing software suggested the wrong paper (yup, I know a case where a friend was cited by mistake, in an unrelated field of research).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;” sorry, but NO!”&lt;/strong&gt; citation - the citing party was researching same stuff but some time later. And he found you made a mistake. But you were the first one who got published! So it is he who has to exercise his writing skills to avoid saying that you can’t do science! But the points are still counting.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;The &lt;strong&gt;“CitePal”&lt;/strong&gt; system - the citing party is a good pal of yours. You’re citing each other’s work and some other amigos you work with. Just like that, regardless of the relevance of cited work. It’s called a &lt;em&gt;citation farm&lt;/em&gt; and it’s a foul play. But don’t worry. Universities in many countries still don’t show a red card for that.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Anti-citation&lt;/strong&gt; - you have been exposed as a fraud. In the scientific press, they write that your publication is fake data, hooliganism and plagiarism. Have you considered filing a lawsuit?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;I published the first version of this piece in Polish in now discontinued blog series run by “&lt;a href=&quot;http://obywatelenauki.pl/about-us/&quot;&gt;Obywatele Nauki&lt;/a&gt;”.&lt;/p&gt;
-</content>
+   <content type="html">Few words about the most important aspect of the modern scientific folklore - Citing. And how it is done. Not too serious.</content>
  </entry>
  
  <entry>
@@ -75,35 +25,7 @@
    <link href="https://bentkowski.net/2020/02/26/prsb-paper-out/"/>
    <updated>2020-02-26T00:00:00+01:00</updated>
    <id>https://bentkowski.net/2020/02/26/prsb-paper-out</id>
-   <content type="html">&lt;p&gt;Some time ago, I did a post-doc in the &lt;a href=&quot;http://evobio.home.amu.edu.pl/&quot;&gt;Evolutionary Biology Group&lt;/a&gt;, a lab run by prof Jacek Radwan at Adam Mickiewicz University in Poznań. I was working on the evolution of copy number variation of the major histocompatibility complex (MHC) genes. MHC genes code for molecules binding fragments of proteins from both self and pathogens thus constituting one of the elements of the immune system. They are found in all jawed vertebrates. MHC proteins can also ‘recognize’ other individuals of the same species (hence problems with organ transplants), and they are known to impact mating preference in animals (including humans). Our work focused on the question of how different mating rules:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Preference for mates with the smallest number of identical MHC variants&lt;/li&gt;
-  &lt;li&gt;Preference for mates with a minimal proportion of shared identical MHC variants within the sum of variants in both partners&lt;/li&gt;
-  &lt;li&gt;Preference for mates with the largest number of MHC variants different from the chooser&lt;/li&gt;
-  &lt;li&gt;No preference, just random matching of mates&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;will impact an individual’s number of MHC variants? It turns out our simulations showed that mating preferences for MHC dissimilarity might have significant consequences for the evolution of MHC gene family expansion. Differences in specific mechanisms of mating rules can lead to very different outcomes and have the potential to explain interspecific differences in the number of MHC genes.&lt;/p&gt;
-
-&lt;h3 id=&quot;abstract&quot;&gt;Abstract&lt;/h3&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Major histocompatibility complex (MHC)-based mating rules can evolve as a way to avoid inbreeding or to increase offspring immune competence. While the role of mating preference in shaping the MHC diversity in vertebrates has been acknowledged, its impact on individual MHC diversity has not been considered. Here, we use computer simulations to investigate how simple mating rules favouring MHC-dissimilar partners affect the evolution of the number of MHC variants in individual genomes, accompanying selection for resistance to parasites. We showed that the effect of such preferences could sometimes be dramatic. If preferences are aimed at avoiding identical alleles, the equilibrium number of MHC alleles is much smaller than under random mating. However, if the mating rule minimizes the ratio of shared to different alleles in partners, MHC number is higher than under random mating. Additionally, our simulations revealed that a negative correlation between the numbers of MHC variants in mated individuals can arise from simple rules of MHC-disassortative mating. Our results reveal unexpected potential of MHC-based mating preferences to drive MHC gene family expansions or contractions and highlight the need to study the mechanistic basis of such preferences, which is currently poorly understood.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/postPics/2020-02-26-fig-1.png&quot; alt=&quot;Figure 1. The effect of MHC-based mating rules on MHC individual copy number&quot; /&gt;
-&lt;em&gt;&lt;strong&gt;Fig.1.&lt;/strong&gt; The effect of MHC-based mating rules minimising the number (MinShared), minimising the proportion (PropShared) of shared variants, and maximising the number of different variants (MaxDiffer), on the number of unique MHC variants in an individual, compared to random mating (Random).&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The paper was published in the &lt;a href=&quot;https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2706&quot;&gt;&lt;strong&gt;Proceeding of the Royal Society B: Biological Sciences&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Cite:&lt;/p&gt;
-&lt;div class=&quot;message&quot;&gt;
-  Bentkowski P, Radwan J. 2020 Mating preferences can drive expansion or contraction of major histocompatibility complex gene family. Proc. R. Soc. B 287:20192706. http://dx.doi.org/10.1098/rspb.2019.2706
-&lt;/div&gt;
-
-&lt;p&gt;The code of this project can be found at &lt;a href=&quot;https://github.com/pbentkowski/MHC_Evolution&quot;&gt;&lt;strong&gt;my GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
+   <content type="html">We have gotten published! Jacek Radwan and I published a paper titled &quot;Mating preferences can drive expansion or contraction of major histocompatibility complex gene family&quot; for which I created agent-based model simulations.</content>
  </entry>
  
  <entry>
@@ -111,27 +33,7 @@
    <link href="https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/"/>
    <updated>2019-05-17T00:00:00+02:00</updated>
    <id>https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution</id>
-   <content type="html">&lt;p&gt;MHC genes, which code for proteins responsible for presenting pathogen-derived antigens to the host immune system, show huge copy-number variation both between and within species. However, the evolutionary forces driving this variation are not understood very well. We used computer simulations to investigate whether the evolution of the number of MHC variants in the genome can be shaped by the number of pathogen species the host population encounters (pathogen richness).&lt;/p&gt;
-
-&lt;p&gt;The majority of MHC research has focused on amino acid sequence polymorphism. However, an aspect of MHC diversity that has received less attention is the number of MHC variants carried by individuals. Expressing many MHC molecules could ensure that an individual could present antigens of most pathogen species encountered, but this comes at a cost, such as enhanced negative selection on lymphocytes leading to holes in T-cell receptor repertoire. The observed number of MHC variants carried by individuals is typically much lower than the number found in the population. For example, in humans, there are 6–7 classical MHC loci, allowing for up to 12–14 different variants in a fully heterozygous individual. In contrast, the number of currently identified MHC alleles summed across those loci in the human population exceeds 17,000 (IPD-IMGT/HLA Database, Release 3.30.0).&lt;/p&gt;
-
-&lt;p&gt;We were using computer simulations based on a &lt;a href=&quot;https://link.springer.com/article/10.1007%2Fs00251-003-0630-5&quot;&gt;framework that has previously been shown to be effective&lt;/a&gt; in recovering some of the essential features of MHC evolution, such as high polymorphism, frequency-dependent selection, heterozygote advantage and positive selection. Our model simulated interactions of MHC molecules and antigens produced by pathogens by matching strings of bits, which can mutate both in hosts and in parasites.&lt;/p&gt;
-
-&lt;p&gt;Our simulations showed that evolution of the number of MHC genes in the genome is driven by a complex interaction between three factors we explored: pathogen richness, the intrinsic cost of expressing additional MHC variants, and pathogen mutation rate. In contrast to verbal arguments, our results indicate that pathogen richness does not always select for MHC gene family expansion.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/public/postPics/2019-05-17-fig-1.png&quot; alt=&quot;Figure 1. The effect of MHC-based mating rules on MHC individual copy number&quot; /&gt;
-&lt;em&gt;&lt;strong&gt;Fig.1.&lt;/strong&gt;  Relationship between the number of pathogen species and the average numbers of unique MHC variants present in a genome of a host under two penalty factors (α = 0.02; 0.08 –panels) and two pathogen mutation rates.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;The paper was published in the &lt;a href=&quot;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007015&quot;&gt;&lt;strong&gt;PLOS Computational Biology&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Cite:&lt;/p&gt;
-&lt;div class=&quot;message&quot;&gt;
-  Bentkowski P, Radwan J (2019) Evolution of major histocompatibility complex gene copy
-number. PLoS Comput Biol 15(5): e1007015. https://doi.org/10.1371/journal.pcbi.1007015
-&lt;/div&gt;
-
-&lt;p&gt;The code of this project can be found at &lt;a href=&quot;https://github.com/pbentkowski/MHC_Evolution&quot;&gt;&lt;strong&gt;my GitHub repository&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
-</content>
+   <content type="html">We have gotten published! Jacek Radwan and I published a paper titled &quot;Evolution of major histocompatibility complex gene copy number&quot;. It's a theoretical study using agent-based simulation I'd coded addressing the question how parasite diversity, their speed of evolution and costs of expressing MHC proteins shape the MHC genes' individual copy number variation in hosts.</content>
  </entry>
  
 
