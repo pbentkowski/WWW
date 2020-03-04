@@ -259,10 +259,14 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.05rem;
   font-weight: 300;
 }
 
+.faceimg {
+  display: flex;
+  justify-content: center;
+}
 
 /*
  * Messages
