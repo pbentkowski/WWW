@@ -1,0 +1,42 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      Rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            PIOTR BENTKOWSKI, PhD
+tagline:          'Computational biologist'
+face_image_pth:   '/public/piter_img_03.png'
+description:      '<b>></b> Computational biologist and modeller working in epidemiology and evolutionary biology. Coding in Python &amp; C++'
+url:              https://bentkowski.net
+base_path:        /
+twitter_username: piterbentkowski
+github_username:  pbentkowski
+author:
+  name:           'Piotr Bentkowski'
+  url:            https://bentkowski.net
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: 'page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+# Custom vars
+version:          2.0
+
+github:
+  repo:           https://github.com/pbentkowski
+
+# Google services
+google_analytics: UA-159652544-1 
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag

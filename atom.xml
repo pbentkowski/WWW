@@ -1,40 +1,28 @@
+---
+layout: null
+---
+
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>PIOTR BENTKOWSKI, PhD</title>
- <link href="https://bentkowski.net/atom.xml" rel="self"/>
- <link href="https://bentkowski.net/"/>
- <updated>2020-03-15T15:09:01+01:00</updated>
- <id>https://bentkowski.net</id>
+ <title>{{ site.title }}</title>
+ <link href="{{ site.url }}/atom.xml" rel="self"/>
+ <link href="{{ site.url }}/"/>
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>{{ site.url }}</id>
  <author>
-   <name>Piotr Bentkowski</name>
-   <email></email>
+   <name>{{ site.author.name }}</name>
+   <email>{{ site.author.email }}</email>
  </author>
 
- 
+ {% for post in site.posts %}
  <entry>
-   <title>All the different ways and reason your papers get cited in the scientific literature</title>
-   <link href="https://bentkowski.net/2020/02/29/different-ways-of-getting-cited/"/>
-   <updated>2020-02-29T00:00:00+01:00</updated>
-   <id>https://bentkowski.net/2020/02/29/different-ways-of-getting-cited</id>
-   <content type="html">Few words about the most important aspect of the modern scientific folklore - Citing. And how it is done. Not too serious.</content>
+   <title>{{ post.title }}</title>
+   <link href="{{ site.url }}{{ post.url }}"/>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>{{ site.url }}{{ post.id }}</id>
+   <content type="html">{{ post.summary | xml_escape }}</content>
  </entry>
- 
- <entry>
-   <title>Our paper showing that the sexual selection can both inflate or deflate MHC gene number is in the wild!</title>
-   <link href="https://bentkowski.net/2020/02/26/prsb-paper-out/"/>
-   <updated>2020-02-26T00:00:00+01:00</updated>
-   <id>https://bentkowski.net/2020/02/26/prsb-paper-out</id>
-   <content type="html">We have gotten published! Jacek Radwan and I published a paper titled &quot;Mating preferences can drive expansion or contraction of major histocompatibility complex gene family&quot; for which I created agent-based model simulations.</content>
- </entry>
- 
- <entry>
-   <title>Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens' mutation rate shape the individual MHC copy number is out!</title>
-   <link href="https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/"/>
-   <updated>2019-05-17T00:00:00+02:00</updated>
-   <id>https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution</id>
-   <content type="html">We have gotten published! Jacek Radwan and I published a paper titled &quot;Evolution of major histocompatibility complex gene copy number&quot;. It's a theoretical study using agent-based simulation I'd coded addressing the question how parasite diversity, their speed of evolution and costs of expressing MHC proteins shape the MHC genes' individual copy number variation in hosts.</content>
- </entry>
- 
+ {% endfor %}
 
 </feed>
