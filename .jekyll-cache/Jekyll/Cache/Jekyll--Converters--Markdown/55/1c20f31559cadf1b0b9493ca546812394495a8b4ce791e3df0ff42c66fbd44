@@ -1,0 +1,40 @@
+I"”
+<hr />
+
+<article>
+    <h3>
+      <a href="/2020/02/29/different-ways-of-getting-cited/">
+        All the different ways and reason your papers get cited in the scientific literature
+      </a>
+    </h3>
+    <time datetime="2020-02-29"><b>29 February 2020</b></time>
+    <br />
+    Few words about the most important aspect of the modern scientific folklore - Citing. And how it is done. Not too serious.
+  </article>
+
+<hr />
+
+<article>
+    <h3>
+      <a href="/2020/02/26/prsb-paper-out/">
+        Our paper showing that the sexual selection can both inflate or deflate MHC gene number is in the wild!
+      </a>
+    </h3>
+    <time datetime="2020-02-26"><b>26 February 2020</b></time>
+    <br />
+    We have gotten published! Jacek Radwan and I published a paper titled "Mating preferences can drive expansion or contraction of major histocompatibility complex gene family" for which I created agent-based model simulations.
+  </article>
+
+<hr />
+
+<article>
+    <h3>
+      <a href="/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution/">
+        Our paper investigating how pathogen richness, the cost of expressing MHC variants, and pathogens' mutation rate shape the individual MHC copy number is out!
+      </a>
+    </h3>
+    <time datetime="2019-05-17"><b>17 May 2019</b></time>
+    <br />
+    We have gotten published! Jacek Radwan and I published a paper titled "Evolution of major histocompatibility complex gene copy number". It's a theoretical study using agent-based simulation I'd coded addressing the question how parasite diversity, their speed of evolution and costs of expressing MHC proteins shape the MHC genes' individual copy number variation in hosts.
+  </article>
+:ET
