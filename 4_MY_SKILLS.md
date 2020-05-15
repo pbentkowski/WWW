@@ -25,7 +25,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 |**Basic&nbsp;math**|Three years of undergrad studies at a physics faculty: formal logic, calculus, probability theory, fuzzy set theory and things like that
 |**Optimization**|Fitting models, selecting parameters
 |**Stats**|ANOVA and linear models, bootstrapping, solid foundation in understanding mathematics behind statistics
-|**ML&nbsp;/&nbsp;AI**|Soon... learning it
+|**ML&nbsp;/&nbsp;AI**|Soon... [learning it](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition)
 
 &nbsp;
 
