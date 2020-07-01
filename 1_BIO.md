@@ -24,7 +24,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 ### WORK
 
 |--|--
-|**2017-now**|Post-doc at the Pierre Louis Institute of Epidemiology and Public Health in Paris ([IPLESP](https://www.iplesp.upmc.fr/en/home) - joined research unit of the [INSERM](https://www.inserm.fr/en) and the [Sorbonne University](http://sante.sorbonne-universite.fr/)) working on modelling of spread and evolution of the influenza virus during seasonal epidemics in France
+|**2017-2020**|Post-doc at the Pierre Louis Institute of Epidemiology and Public Health in Paris ([IPLESP](https://www.iplesp.upmc.fr/en/home) - joined research unit of the [INSERM](https://www.inserm.fr/en) and the [Sorbonne University](http://sante.sorbonne-universite.fr/)) working on modelling of spread and evolution of the influenza virus during seasonal epidemics in France
 |**2015-2017**|Post-doc at the Adam Mickiewicz University in Poznań working in the [Evolutionary Biology Group](http://evobio.home.amu.edu.pl/) on the modelling of evolution of the major histocomatibility complex (MHC) genes
 |**2012-2014**|Post-doc at the International Institute of Molecular and Cell Biology in Warsaw ([IIMCB](https://www.iimcb.gov.pl/en/)) doing non-coding RNA bioinformatics
 |**2008&nbsp;,&nbsp;2011**|Short-term gigs at the [Department of Hydrobiology](http://www.hydro.biol.uw.edu.pl/en), University of Warsaw doing automation in ecological experiments
