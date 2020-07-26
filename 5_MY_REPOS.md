@@ -10,7 +10,7 @@ My code can be found in two, mostly identical, repositories. Bitbucket provides 
 [![My Bitbucket repo](/public/bitbucket-logo.png)](https://bitbucket.org/pbentkowski/)
 
 
-Unfortunately, some of my employment contracts did not allowed me to make the projects' code public.
+Unfortunately, some of my employment contracts did not allow me to make the projects' code public.
 
 
 I'm also on ResearchGate where you can see my scientific papers.
