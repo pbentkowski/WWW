@@ -8,7 +8,7 @@ Here are some of the pieces I wrote and published. Proper scientific publication
 ### SCIENCE
 
 |--|
-|Moreno López JA, Arregui-Garcĺa B, **Bentkowski P**, Bioglio L, Pinotti F, Boëlle P-Y, Barrat A, Colizza V, Poletto C. Anatomy of digital contact tracing: role of age, transmission setting, adoption and case detection. [medRxiv 2020 (pre-print)](https://www.medrxiv.org/content/10.1101/2020.07.22.20158352v1)|
+|Moreno López JA, Arregui-Garcĺa B, **Bentkowski P**, Bioglio L, Pinotti F, Boëlle P-Y, Barrat A, Colizza V, Poletto C. Anatomy of digital contact tracing: role of age, transmission setting, adoption and case detection, accepted 2021. [medRxiv 2020 (pre-print)](https://www.medrxiv.org/content/10.1101/2020.07.22.20158352v2)|
 |**Bentkowski P**, Radwan J. Mating preferences can drive expansion or contraction of MHC gene family. [Proc R Soc B 2020](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2706); 287:20192706 or get my [personal copy](https://www.researchgate.net/publication/339494277_Mating_preferences_can_drive_expansion_or_contraction_of_MHC_gene_family)|
 |**Bentkowski P**, Radwan J. Evolution of major histocompatibility complex gene copy number. [PLOS Comput Biol 2019](http://dx.plos.org/10.1371/journal.pcbi.1007015); 15: e1007015.|
 |**Bentkowski P**, van Oosterhout C, Ashby B, Mock T. The effect of extrinsic mortality on genome size evolution in prokaryotes. [ISME J 2017](http://www.nature.com/doifinder/10.1038/ismej.2016.165); 11: 1011–1018.|
