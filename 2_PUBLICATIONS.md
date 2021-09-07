@@ -16,7 +16,7 @@ Here are some of the pieces I wrote and published. Proper scientific publication
 |**Bentkowski P**. Modelling evolution of genome size in prokaryotes in response to changes in their abiotic environment. [University of East Anglia 2014](https://ueaeprints.uea.ac.uk/50553/). PhD Thesis.|
 |**Bentkowski P**, Markowska M, Pijanowska J. Role of melatonin in the control of depth distribution of Daphnia magna. [Hydrobiologia 2010](https://www.researchgate.net/publication/226083801_Role_of_melatonin_in_the_control_of_depth_distribution_of_Daphnia_magna); 643: 43–50.|
 |Markowska M, **Bentkowski P**, Kloc M, Pijanowska J. Presence of melatonin in Daphnia magna. [J Pineal Res 2009](https://www.researchgate.net/publication/23569244_Presence_of_melatonin_in_Daphnia_magna); 46: 242–244.|
-|**Bentkowski P**, Markowska M. Ewolucja fizjologicznych funkcji melatoniny u bezkręgowców. [Kosmos 2007](http://kosmos.icm.edu.pl/PDF/2007/383.pdf); 56 (3-4), 383-391|
+|**Bentkowski P**, Markowska M. Ewolucja fizjologicznych funkcji melatoniny u bezkręgowców. [Kosmos 2007](https://kosmos.ptpk.org/index.php/Kosmos/article/view/240); 56 (3-4), 383-391|
 
 &nbsp;
 
