@@ -15,7 +15,5 @@ I am a researcher with over a decade of experience in [computational biology](ht
 
 After a brief brush with IT industry, I work on data-driven epidemiological models at the University of Warsaw.
 
-For many years I have been volunteering for non-government organisations. At the moment, I'm involved in a science advocacy group ["Nauka dla Przyrody"](https://naukadlaprzyrody.pl/) ("Science for Nature") consisting of Polish environmental researchers. NdP is calling for science-driven nature conservation efforts.
-
 If you want to contact me, go and [**FIND_ME**](/7_CONTACT). This web page is a bit of a lavish résumé.
 

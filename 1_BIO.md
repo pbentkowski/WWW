@@ -5,7 +5,7 @@ title: BIO
 
 I grew up in [Warsaw](https://warsawtour.pl/en/sightseeing-routes/), Poland's capital city, and I am 'the 90's kid'. I graduated in Environmental Biology from the University of Warsaw. I also studied Computational Methods of Physics at the same university. I defended my Ph.D. at the School of Environmental Sciences, University of East Anglia in Norwich, UK.
 
-Since then, I have worked as a bio-modeller and a bioinformatician in research institutes in Warsaw, Poznań, Paris. Currently I am back in Warsaw after moving to commercial data science.
+Since then, I have worked as a bio-modeller and a bioinformatician in research institutes in Warsaw, Poznań, Paris. Currently I am back in Warsaw.
 
 For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH).
 
@@ -24,8 +24,8 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 ### WORK
 
 |--|--
-|**2021-now**|Free-lanced data analyst (currently working for University of Warsaw)
-|**2020-2021**|Researcher in data science at [QED Software](https://qed.pl/) group in Warsaw, Poland
+|**2021-now**|Research fellow at the [Center for Systemic Risk Analysis](http://cbrs.uw.edu.pl/about/), University of Warsaw
+|**2020-2021**|Working in IT industry in Warsaw, Poland
 |**2017-2020**|Post-doc at the Pierre Louis Institute of Epidemiology and Public Health in Paris ([IPLESP](https://www.iplesp.upmc.fr/en/home) - joined research unit of the [INSERM](https://www.inserm.fr/en) and the [Sorbonne University](http://sante.sorbonne-universite.fr/)) working on modelling of spread and evolution of the influenza virus during seasonal epidemics in France
 |**2015-2017**|Post-doc at the Adam Mickiewicz University in Poznań working in the [Evolutionary Biology Group](http://evobio.home.amu.edu.pl/) on the modelling of evolution of the major histocomatibility complex (MHC) genes
 |**2012-2014**|Post-doc at the International Institute of Molecular and Cell Biology in Warsaw ([IIMCB](https://www.iimcb.gov.pl/en/)) doing non-coding RNA bioinformatics
