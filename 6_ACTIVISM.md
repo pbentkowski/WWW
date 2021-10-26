@@ -20,9 +20,3 @@ Using my experience from 'Obywatele Nauki' I coordinate the on-line presence of 
 After coming back from my Ph.D. studies in the UK I joined a group of scholars, both, with natural science and humanities background interested in improving academic research and higher education in Poland. In September 2012 we launched a grassroots organization aiming at triggering a debate on the state of academia Poland, bridging divisions in Polish academia and lobbing for reforms improving higher education and state-funded research.
 
 For all that time, I was responsible for ON's on-line presence running its social media and the web page. I am one of the named contributors to the '[Pact for Academia](http://obywatelenauki.pl/2015/04/pakt-dla-nauki-wreszcie-opublikowany/)': a 100+ page document laying out the road map for the improvements we wished to achieve.
-
-----------------------------------------------------------
-
-### ZHP : [The Polish Scouting and Guiding Association](https://zhp.pl/serwis/en/) (1997-2010)
-
-I joined the rover squad of 23rd Warsaw Scout Teams "Pomarańczarnia" in high school. Later I become one of the rovers' leaders myself and certified ZHP Scout Guide. After that, I joined the board of a charity running Pomarańczarnia's [mountain shelter in Sokołówka](https://www.instagram.com/sokolowka_hbt/) (also open for other scouts) in the Sudety Mountains (S-W Poland). I left the organization after moving to the UK, where I studied for my Ph.D.

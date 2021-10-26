@@ -9,11 +9,11 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 
 ### THINGS I DID
 
-**Python :**  I coded various scrips combing through the directory tree in search of text files containing specific data (e.g. simulation results with particular parameters). The scripts segregate, compute, do statistics and plot the data  •  Simple webpage crawler that gathered data on RNA sequences from a database web page that was no longer maintained (abandonware)  •  A bunch of Python scripts for cluster computer that automatically set parameters, launch simulations (written in C++) and compare their results with empirical data. We only have to pick the cutest graphs after few days of computations☺  •  A lot of text data parsers. 
+**Python :**  I coded various scrips combing through the directory tree in search of text files containing specific data (e.g. simulation results with particular parameters). The scripts segregate, compute, do statistics and plot the data  •  A lot of text data parsers  •  Scripts for automated computing on HPC clusters. 
 
-**C++ :**  I wrote from scratch two agent-based simulations and extended one already existing . They were all designated for launching on cluster computers. This programs simulated life and evolution of the population of agents (bacteria, generic vertebrates, viral antigens)  •  Code mostly rely on STL objects (vectors, sets, etc.)  and some of Boosts routines   •   I used OpenMP for palatalisation of computations (I aimed at course parallelisation).
+**C++ :**  I wrote from scratch two agent-based simulations and extended one already existing . They were all designated for launching on cluster computers.   •  Code mostly rely on STL objects (vectors, sets, etc.)  and some of Boosts routines   •   I used OpenMP for palatalisation of computations (I aimed at course parallelisation).
 
-**Biology :** I created a small database of non-coding RNA (before large repositories became available)   •   Designed and performed experiments with small animals (zooplankton, fish)   •   Had some experience with laboratory methods of molecular biology  •  Created and developed a number of agent-based simulations in evolutionary biology and epidemiology.
+**Wet lab (biology) :**  Designed and performed experiments with small animals (zooplankton, fish)   •   Had some experience with laboratory methods of molecular biology.
 
 ### CODING & COMPUTER
 
@@ -23,7 +23,8 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 |**Linux**|Power user: scripting in Bash and a bit in AWK, good understanding of the system's backbone, no GUI required, using Linux since 2004
 |**Version control**|Using [git](https://bentkowski.net/repos.html) for version tracking and code sharing
 |**HPC**|Running computations on remote high power cluster computers, automation of large volumes of computations that can run for days without supervision
-|**MATLAB**|Some experience in the past, later switched to Python (Matlab's license is a bit pricey)
+|**MATLAB**|Limited experience in the past, later switched to Python (Matlab's license is a bit pricey)
+|**Big Data**|Studying [*Processing and Analysis of Big Data*](http://datascience.ii.pw.edu.pl/bigdata.html)
 
 &nbsp;
 
