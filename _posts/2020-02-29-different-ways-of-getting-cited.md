@@ -21,7 +21,7 @@ In such a system, these citations count as points. Just like credits for taking 
 
  * **"The method (wo)man"** - you've come up with a new and better approach to the problem. The citing party uses your research method all the way in their work — still one point.
 
- And you happened to calculate all the flies sometime before. All of them. All.* The **"I need that number"** citation - your paper provided a fine detail to the citing party work, e.g. she estimated how many insects are there in the world.
+* The **"I need that number"** citation - your paper provided a fine detail to the citing party work, e.g. she estimated how many insects are there in the world.  And you happened to calculate all the flies sometime before. All of them. All.
 
  * The **"it's fresh stuff"** citation - the citing party wants to show that he is in the avant-garde of research in his field, not an intellectual hermit. So he must first quote a couple of fairly recent papers that approached a similar topic. If you have published a paper in the last three years and its title in 30% consists of keywords relevant to the author, you can be sure that your article will be cited. Not necessarily read, though.
 
