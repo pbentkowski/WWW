@@ -8,6 +8,7 @@ Here are some of the pieces I wrote and published. Proper scientific publication
 ### SCIENCE
 
 |--|
+|Grzesiuk M, Gryglewicz E, **Bentkowski P**, Pijanowska J. Impact of fluoxetine on herbivorous zooplankton and planktivorous fish, [Environ Toxicol Chem 2022](https://doi.org/10.1002/etc.5525); doi: 10.1002/etc.5525|
 |Moreno López JA, Arregui-Garcĺa B, **Bentkowski P**, Bioglio L, Pinotti F, Boëlle P-Y, Barrat A, Colizza V, Poletto C. Anatomy of digital contact tracing: role of age, transmission setting, adoption and case detection. [Science Advances 2021](https://advances.sciencemag.org/content/early/2021/03/12/sciadv.abd8750) Adv. 10.1126/sciadv.abd8750|
 |**Bentkowski P**, Radwan J. Mating preferences can drive expansion or contraction of MHC gene family. [Proc R Soc B 2020](https://royalsocietypublishing.org/doi/10.1098/rspb.2019.2706); 287:20192706 or get my [personal copy](https://www.researchgate.net/publication/339494277_Mating_preferences_can_drive_expansion_or_contraction_of_MHC_gene_family)|
 |**Bentkowski P**, Radwan J. Evolution of major histocompatibility complex gene copy number. [PLOS Comput Biol 2019](http://dx.plos.org/10.1371/journal.pcbi.1007015); 15: e1007015.|
