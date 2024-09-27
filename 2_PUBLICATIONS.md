@@ -41,14 +41,18 @@ At the moment, all of my writing for the lay public is aimed at readers in Polan
 
 *How to talk about Białowieża Forest at the Christmas dinner?* : How to talk about science-based conservation policies and ways to tackle the bark beetle outbreak in Białowieża Forest to your science-denying friends and family during Christmas without arguing. In Polish with Dr Zofia Prokop. Based on the work of Gleb Tsipursky.
 
-[**Naukowy exodus**](http://obywatelenauki.pl/2017/09/naukowy-exodus/) 
+[**Naukowy exodus**](https://bentkowski.net/2024/09/27/naukowy-exodus/) 
 
 *Scientific exodus* : Unsatisfactory working condition in academia and improving job opportunities in Polish growing corporate R&D drive increasing number of scientist from academia into commerce. But this outflow of experienced post-doctoral staff is not compensated by immigration. With Anna Muszewska, we are warning that in relatively few years Polish academia may face a shortage of scientist qualified to take senior positions at universities and research institutes.
 
-[**Granty ERC a sprawa polska, czyli uczony głodny jest o wiele mniej płodny**](http://obywatelenauki.pl/2016/11/granty-erc-sprawa-polska-uczony-glodny-jest-mniej-plodny/) 
+[**Granty ERC a sprawa polska, czyli uczony głodny jest o wiele mniej płodny**](https://bentkowski.net/2024/09/27/uczony_glodny/) 
 
 *ERC grants in Poland: Scientists going hungry won't be very productive* : Success rate of ERC grant proposals in 2015 in relations to applicants' country of affiliation correlates with what percent of GDP this country spent on R&D in 2014. Poland's low success rate reflects low government spending on R&D and policy limited to the verbal encouragement of scientists to 'improve their effort' won't change it. [Link to data](https://github.com/pbentkowski/ERC_grants_stats).
 
 ### CONSULTING OTHER PUBLICATIONS
 
 Scientific consultation of the Polish edition of an educational book for children *Charles Darwin's On The Origin of Species* by Sabina Radeva ([Ewolucja. O powstawaniu gatunków według Karola Darwina](https://lubimyczytac.pl/ksiazka/4920870/ewolucja-o-powstawaniu-gatunkow-wedlug-karola-darwina))
+
+### MEDIA APPERENCE
+
+Projek Pulsar Podkast #80 [The computer metaphor does not work in biology](https://www.projektpulsar.pl/srodowisko/2241573,1,podkast-80-piotr-bentkowski-metafora-komputera-i-programu-nie-dziala-w-biologii.read) - what is computational biology? (interview in Polish by Karol Jałochowski, 12 January 2024)

@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Polskie instytucje naukowe są za biedne, aby skutecznie konkurować o granty Europejskiej Rady ds. Badań Naukowych
+title: Granty ERC a sprawa polska, czyli uczony głodny jest o wiele mniej płodny
 ---
+**Polskie instytucje naukowe są za biedne, aby skutecznie konkurować o granty Europejskiej Rady ds. Badań Naukowych. (kopia ze strony www.obywatelenauki.pl**
 
 W 2007 r. powołano w Europie instytucję, która ma  wspierać i do pewnego stopnia koordynować wspólne wysiłki badawcze  uczonych z krajów europejskich (nie tylko UE). W zamyśle, dzięki temu  Europa może dogoni kiedyś USA i kraje Azji Wschodniej w badaniach i  innowacji. Tak powstała Europejska Rada ds. Badań Naukowych (*European Research Council*, ERC) z budżetem 13 mld euro na lata 2014-2020 z programu *Horyzont 2020*. Podstawą działania ERC jest finansowanie trzech głównych konkursów grantowych:
 
