@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Naukowy exodus (kopia z www.obywatelenauki.pl)
+title: Naukowy exodus
 ---
+
+(kopia z martwej już strony www.obywatelenauki.pl)
 
 **Czas powiedzieć to głośno: jeszcze chwila dalszych zaniedbań i pozostaniemy bez naukowców.**
 

@@ -4,29 +4,13 @@
  <title>PIOTR BENTKOWSKI, PhD</title>
  <link href="https://bentkowski.net/atom.xml" rel="self"/>
  <link href="https://bentkowski.net/"/>
- <updated>2024-09-27T02:44:28+02:00</updated>
+ <updated>2024-09-27T03:21:58+02:00</updated>
  <id>https://bentkowski.net</id>
  <author>
    <name>Piotr Bentkowski</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>Granty ERC a sprawa polska, czyli uczony głodny jest o wiele mniej płodny</title>
-   <link href="https://bentkowski.net/2024/09/27/uczony_glodny/"/>
-   <updated>2024-09-27T00:00:00+02:00</updated>
-   <id>https://bentkowski.net/2024/09/27/uczony_glodny</id>
-   <content type="html"></content>
- </entry>
- 
- <entry>
-   <title>Naukowy exodus (kopia z www.obywatelenauki.pl)</title>
-   <link href="https://bentkowski.net/2024/09/27/naukowy-exodus/"/>
-   <updated>2024-09-27T00:00:00+02:00</updated>
-   <id>https://bentkowski.net/2024/09/27/naukowy-exodus</id>
-   <content type="html"></content>
- </entry>
  
  <entry>
    <title>All the different ways and reasons your papers get cited in the scientific literature</title>
@@ -50,6 +34,22 @@
    <updated>2019-05-17T00:00:00+02:00</updated>
    <id>https://bentkowski.net/2019/05/17/PLoS-Comp-Biol-paper-out-MHC-evolution</id>
    <content type="html">We have gotten published! Jacek Radwan and I published a paper titled &quot;Evolution of major histocompatibility complex gene copy number&quot;. It&apos;s a theoretical study using agent-based simulation I&apos;d coded addressing the question how parasite diversity, their speed of evolution and costs of expressing MHC proteins shape the MHC genes&apos; individual copy number variation in hosts.</content>
+ </entry>
+ 
+ <entry>
+   <title>Granty ERC a sprawa polska, czyli uczony głodny jest o wiele mniej płodny</title>
+   <link href="https://bentkowski.net/2017/09/27/uczony_glodny/"/>
+   <updated>2017-09-27T00:00:00+02:00</updated>
+   <id>https://bentkowski.net/2017/09/27/uczony_glodny</id>
+   <content type="html"></content>
+ </entry>
+ 
+ <entry>
+   <title>Naukowy exodus</title>
+   <link href="https://bentkowski.net/2017/09/27/naukowy-exodus/"/>
+   <updated>2017-09-27T00:00:00+02:00</updated>
+   <id>https://bentkowski.net/2017/09/27/naukowy-exodus</id>
+   <content type="html"></content>
  </entry>
  
 

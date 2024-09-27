@@ -5,7 +5,27 @@ title: RESEARCH
 
 Here are some of the projects in which I participate(d). For papers that resulted from some of them, see the tab [**PUBLICATIONS**](/2_PUBLICATIONS).
 
-Rather than in a particular subject or model organism, I specialise in a set of research methods: [agent-based modelling](https://link.springer.com/content/pdf/10.1057/jos.2010.3.pdf) and computer analysis of vast volumes of data. My favourite field of research is the boundary of ecology and evolutionary biology.
+Rather than in a particular subject or model organism, I specialise in a set of research methods: [agent-based modelling](https://link.springer.com/content/pdf/10.1057/jos.2010.3.pdf) and computer analysis of vast volumes of data.
+
+---------------------------------------------------------------
+
+#### <span style="color:#AC4142">HOW DIFFERENCES IN SOCIO-ECONOMICAL CONDITIONS IN DIFFERENT REGIONS OF POLAND IMPACTED THE VARIATION IN MORTALITY DURING THE COVID-19 PANDEMIC</span>
+
+The COVID-19 pandemic was the first global infectious disease outbreak of the information era. The multitude of data gathered during the pandemic allows for a better understanding of the issue and the identification of the population's vulnerabilities to future outbreaks of infectious respiratory disease. The project aims to identify the critical differences in mortality patterns between the regions of Poland and what factors stood behind them to help minimise the impact of future outbreaks.
+
+We gathered data from Statistics Poland (GUS) and its 2021 National Census, Ministry of Health, and academic literature in a handy SQL database and are crunching the numbers.
+
+---------------------------------------------------------------
+
+#### <span style="color:#AC4142">IMPACT OF HOMOPHILY IN ADHERENCE TO ANTI-EPIDEMIC MEASURES ON THE SPREAD OF INFECTIOUS DISEASES IN SOCIAL NETWORKS</span>
+
+Homophily is a sociological concept that individuals who share similar traits, such as age, gender, race, religion, occupation, worldview, political views, etc., are more likely to be attracted to and bond with each other. We are interested in how potential divisions along the adherence and non-adherence to measures aimed at limiting the spread of infectious disease can impact the dynamic of the epidemic. In particular, how does the depth of that division impact the two groups regarding the number of infected people in each group? 
+
+---------------------------------------------------------------
+
+#### <span style="color:#AC4142">GEOGRAPHY-INFORMED MODELLING ON THE PLAGUE OF JUSTINIAN (6TH C. A.D.) </span>
+
+I am a member of an interdisciplinary team of historians, epidemiologists, and physicists trying to utilise data found in historical records and reconstruct the Late Antiquity geography to uncover the possible trajectory and spread of the Justinian Plague.
 
 ---------------------------------------------------------------
 
@@ -13,7 +33,7 @@ Rather than in a particular subject or model organism, I specialise in a set of 
 
 The influenza virus is a small RNA virus that causes seasonal flu epidemics, e.g. in France they occur around winter. Flu may pose a risk of severe complications and even death in vulnerable individuals. Influenza vaccines exist, but due to the fast evolution of the virus, their efficiency is limited only to several similar strains of the virus. And the dominant strains change annually. The project (conceived by [Chiara Poletto](http://chiara-poletto.weebly.com/)) aims at understanding how population structure of France and travel patterns influence the dynamic of the epidemics and evolution of the influenza virus.
 
-We use an agent-based and data-driven ([INSEE](https://www.insee.fr/fr/accueil) census) model simulating the spread of influenza in France developed before (by [Livio Bioglio](http://www.di.unito.it/~biogliol/)) and modified by us to record detailed information on who-infected-who. That allows for precise tracking of the epidemic demographics and the spread of the virus. We validate the model with the [Réseau Sentinelles’ (RS)](https://www.sentiweb.fr/france/fr/?page=maladies) disease surveillance data.
+We used an agent-based and data-driven ([INSEE](https://www.insee.fr/fr/accueil) census) model simulating the spread of influenza in France developed before (by [Livio Bioglio](http://www.di.unito.it/~biogliol/)) and modified by us to record detailed information on who-infected-who. That allows for precise tracking of the epidemic demographics and the spread of the virus. We validate the model with the [Réseau Sentinelles’ (RS)](https://www.sentiweb.fr/france/fr/?page=maladies) disease surveillance data.
 
 My job is to modify the original ABM model (written in C++11) to meet the project's needs, process the INSEE and RS data to feed them into the model, calibrate parameters using the data and analyse the output. There's a lot of Python scripting for automated data processing (including scripts choosing parameters and launching simulations on their own).
 
@@ -42,5 +62,5 @@ The model is written in C++ and Python is used to analyse the results. This was 
 #### <span style="color:#AC4142">IMPACT OF PHARMACEUTICALS AND EXOGENIC HORMONES ON LAKE ZOOPLANKTON : LAB EXPERIMENTS IN ECOTOXICOLOGY</span>
 
 The drugs used by humans also have a biological impact on other organism sharing similar biochemical pathways (due to shared evolutionary history). And we're releasing then into the environment. We tested how hormone melatonin (my M.Sc. project) impacts the diurnal migration and life-history traits of a freshwater crustacean Daphnia magna (water flea). I also took part in investigating how antidepressant drugs impact freshwater fish anti-predatory behaviour.
- 
+
 I took part in the design of the experiments and later set them up. I developed an experimental setup that allowed for [night time surveillance of animals using IR light](https://www.researchgate.net/publication/226083801_Role_of_melatonin_in_the_control_of_depth_distribution_of_Daphnia_magna) invisible to them. Part of my studies under prof [Joanna Pijanowska](http://www.hydro.biol.uw.edu.pl/en/joanna-pijanowska-prof-dr-hab.html).
