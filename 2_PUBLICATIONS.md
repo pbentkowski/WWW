@@ -51,4 +51,4 @@ At the moment, all of my writing for the lay public is aimed at readers in Polan
 
 ### CONSULTING OTHER PUBLICATIONS
 
-Scientific consultation of the Polish edition of an educational book for children *Charles Darwin's On The Origin of Species* by Sabina Radeva ([Ewolucja. O powstawaniu gatunków według Karola Darwina](https://publicat.pl/papilon/oferta/nauczanie-wczesnoszkolne-6-9-lat/ewolucja-o-powstawaniu-gatunkow-wedlug-karola))
+Scientific consultation of the Polish edition of an educational book for children *Charles Darwin's On The Origin of Species* by Sabina Radeva ([Ewolucja. O powstawaniu gatunków według Karola Darwina](https://lubimyczytac.pl/ksiazka/4920870/ewolucja-o-powstawaniu-gatunkow-wedlug-karola-darwina))
