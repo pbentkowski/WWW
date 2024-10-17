@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Naukowy exodus
+summary: Czas powiedzieć to głośno - jeszcze chwila dalszych zaniedbań i pozostaniemy bez naukowców. Trwa odpływ naukowców średniego szczebla kariery
 ---
 
 (kopia z martwej już strony www.obywatelenauki.pl)
@@ -20,6 +21,8 @@ Niezadowolenie i frustrację budzi rozdźwięk między wynagrodzeniami garstki w
 Trudności w łączeniu życia zawodowego i prywatnego są przedmiotem niekończących się rozmów na korytarzach uczelni i instytutów na całym świecie. W prasie i na forach internetowych wklepano oceany pikseli na opisywanie niedoli postdoca. Z badań dotyczących dzietności naukowców i wynika, że chcieliby mieć więcej dzieci niż mają oraz że kobiety często wypadają z nauki jeśli mają dzieci. Czas wymyślić coś lepszego, w przeciwnym wypadku obudzimy się z koniecznością budowania świata akademickiego od zera. Obecnie obserwujemy odpływ pracowników po doktoracie a przed profesurą, czyli tych których objęły zmiany modelu kariery. Nie tylko osoby z pogranicza IT dostają oferty pracy zgodne ze swoimi kwalifikacjami i zainteresowaniami z warunkami finansowymi lepszymi niż niewysokie pensje akademików. Zanikanie całego pokolenia ze struktury akademickiej zaowocuje w przyszłości nieodwracalnymi szkodami dla ciągłości uczelni i instytutów badawczych. W dłuższej perspektywie zaszkodzi również z wolna rozwijającemu się w Polsce rynkowi badań i rozwoju, ponieważ odbije się negatywnie na kształceniu kadr dla działów badawczych, które obecnie drenują uczelnie i instytuty.
 
 Anna Muszewska i Piotr Bentkowski
+
+Postscriptum:  [Kwiek & Szymula (2024) *Quantifying attrition in science: a cohort-based, longitudinal study of scientists in 38 OECD countries*, Higher Education](https://link.springer.com/article/10.1007/s10734-024-01284-0)
 
 ---------------------------------------------------------------------------------------
 Bibliografia:
