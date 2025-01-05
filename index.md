@@ -11,11 +11,8 @@ title: HOME
 
 &nbsp;
 
-I am a theoretical biologist with over a decade of experience in academic research. My work focuses on deciphering complex biological processes using computational simulations and analyzing large-scale datasets. In recent years, my research has primarily centered on epidemiology and investigating the behavioral impact of pharmaceutical pollutants on animals.
+I am a computational biologist with over a decade of research experience. My work focuses on unraveling complex biological processes through computational simulations and analyzing large-scale datasets. Recently, my research has been centered on epidemiology and exploring how pharmaceutical pollutants affect animal behavior.
 
-My academic background is rooted in ecology and computational physics, which has provided me with a solid foundation in data-driven biological research. I have extensive experience handling large biological datasets, including RNA/DNA sequences, annotated genomes, and epidemiological surveillance data, alongside conducting rigorous statistical analyses. Notably, I co-developed a model for simulating the spread of seasonal influenza in France.
+My academic foundation combines evolutionary ecology and computational physics. I have significant experience working with large biological datasets, including RNA/DNA sequences, annotated genomes, and epidemiological surveillance data, as well as performing in-depth statistical analyses. Until recently, I was involved in developing data-driven epidemiological models at the University of Warsaw’s [Centre for Systemic Risk Analysis](https://cbrs.uw.edu.pl/en/about-the-centre/).
 
-Currently, I work on data-driven epidemiological models at the University of Warsaw at the [Centre for Systemic Risk Analysis](https://cbrs.uw.edu.pl/en/about-the-centre/).
-
-If you want to contact me, go and [**FIND_ME**](/7_CONTACT). This web page is a bit of a lavish résumé.
-
+Feel free to [**contact me**]() if you'd like to connect. **I’m currently open to new job opportunities!**

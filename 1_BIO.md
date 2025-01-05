@@ -3,9 +3,9 @@ layout: page
 title: BIO
 ---
 
-I grew up in [Warsaw](https://warsawtour.pl/en/sightseeing-routes/), Poland's capital city, and I am 'the 90's kid'. I graduated in Environmental Biology from the University of Warsaw. I also studied Computational Methods of Physics at the same university. I defended my Ph.D. at the School of Environmental Sciences, University of East Anglia in Norwich, UK.
+I grew up in [Warsaw](https://warsawtour.pl/en/sightseeing-routes/), Poland's capital city, and I am 'the 90's kid' - I was a teenager during the bumpy transition period to capitalism in Poland. I loved natural sciences since I was a kid (competed in subject Olympiads; I was a finalist in ecology). I graduated in Environmental Biology from the University of Warsaw. I also studied Computational Methods of Physics at the same university. I defended my Ph.D. at the School of Environmental Sciences, University of East Anglia in Norwich, UK.
 
-Since then, I have worked as a bio-modeller and a bioinformatician in research institutes in Warsaw, Poznań, Paris. Currently I am back in Warsaw.
+Since then, I have worked as a bio-modeller and a bioinformatician in research institutes in Warsaw, Poznań, Paris. Since some time I am back in Warsaw.
 
 For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH).
 
@@ -14,7 +14,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 
 |--|--
 |**Name**|Piotr BENTKOWSKI
-|**Profession**|Computational biologist / modeller
+|**Profession**|Computational biologist & modeller
 |**Almae Matres**|University of Warsaw, Poland<br>University of East Anglia, Norwich, UK
 |**Societies**|[23 WDHiZ "Pomarańczarnia"](https://pl.wikipedia.org/wiki/Szczep_23_Warszawskich_Dru%C5%BCyn_Harcerskich_i_Zuchowych_%E2%80%9EPomara%C5%84czarnia%E2%80%9D)<br>[Obywatele Nauki](http://obywatelenauki.pl/about-us/)<br>[Nauka dla Przyrody](https://naukadlaprzyrody.pl/o-nas/)
 |**ORCID ID**|[orcid.org/0000-0002-1220-1075](https://orcid.org/0000-0002-1220-1075)
@@ -24,7 +24,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 ### WORK
 
 |--|--
-|**2021-now**|Research fellow at the [Center for Systemic Risk Analysis](http://cbrs.uw.edu.pl/about/), University of Warsaw
+|**2021-2024**|Research fellow at the [Center for Systemic Risk Analysis](http://cbrs.uw.edu.pl/about/), University of Warsaw
 |**2020-2021**|Working in IT industry in Warsaw, Poland
 |**2017-2020**|Post-doc at the Pierre Louis Institute of Epidemiology and Public Health in Paris ([IPLESP](https://www.iplesp.upmc.fr/en/home) - joined research unit of the [INSERM](https://www.inserm.fr/en) and the [Sorbonne University](http://sante.sorbonne-universite.fr/)) working on modelling of spread and evolution of the influenza virus during seasonal epidemics in France
 |**2015-2017**|Post-doc at the Adam Mickiewicz University in Poznań working in the [Evolutionary Biology Group](http://evobio.home.amu.edu.pl/) on the modelling of evolution of the major histocomatibility complex (MHC) genes

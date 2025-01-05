@@ -13,13 +13,13 @@ Rather than in a particular subject or model organism, I specialise in a set of 
 
 The COVID-19 pandemic was the first global infectious disease outbreak of the information era. The multitude of data gathered during the pandemic allows for a better understanding of the issue and the identification of the population's vulnerabilities to future outbreaks of infectious respiratory disease. The project aims to identify the critical differences in mortality patterns between the regions of Poland and what factors stood behind them to help minimise the impact of future outbreaks.
 
-We gathered data from Statistics Poland (GUS) and its 2021 National Census, Ministry of Health, and academic literature in a handy SQL database and are crunching the numbers.
+We gathered data from Statistics Poland (GUS) and its 2021 National Census, Ministry of Health, and academic literature in a handy SQL database and are crunching the numbers using GLMs in R.
 
 ---------------------------------------------------------------
 
 #### <span style="color:#AC4142">IMPACT OF HOMOPHILY IN ADHERENCE TO ANTI-EPIDEMIC MEASURES ON THE SPREAD OF INFECTIOUS DISEASES IN SOCIAL NETWORKS</span>
 
-Homophily is a sociological concept that individuals who share similar traits, such as age, gender, race, religion, occupation, worldview, political views, etc., are more likely to be attracted to and bond with each other. We are interested in how potential divisions along the adherence and non-adherence to measures aimed at limiting the spread of infectious disease can impact the dynamic of the epidemic. In particular, how does the depth of that division impact the two groups regarding the number of infected people in each group? 
+Homophily is a sociological concept suggesting that individuals who share similar traits—such as age, gender, race, religion, occupation, worldview, or political beliefs—are more likely to be drawn to and form bonds with one another. We are investigating how potential divisions between compliance and non-compliance with measures designed to limit the spread of infectious diseases can influence the dynamics of an epidemic. Specifically, we aim to explore how the extent of such divisions affects the two groups, particularly in terms of the number of infected individuals within each group.
 
 ---------------------------------------------------------------
 
@@ -31,11 +31,11 @@ I am a member of an interdisciplinary team of historians, epidemiologists, and p
 
 #### <span style="color:#AC4142">ADVANCED COMPUTATIONAL APPROACHES FOR THE INTEGRATIVE STUDY OF VIROLOGICAL, EPIDEMIOLOGICAL AND SOCIO-DEMOGRAPHIC DRIVERS OF INFLUENZA</span>
 
-The influenza virus is a small RNA virus that causes seasonal flu epidemics, e.g. in France they occur around winter. Flu may pose a risk of severe complications and even death in vulnerable individuals. Influenza vaccines exist, but due to the fast evolution of the virus, their efficiency is limited only to several similar strains of the virus. And the dominant strains change annually. The project (conceived by [Chiara Poletto](http://chiara-poletto.weebly.com/)) aims at understanding how population structure of France and travel patterns influence the dynamic of the epidemics and evolution of the influenza virus.
+The influenza virus, a small RNA virus, causes seasonal flu epidemics, such as those in France during winter. Vaccines exist, but due to the virus's rapid evolution, their effectiveness is limited to specific strains, which change annually. This project, conceived by [Chiara Poletto](http://chiara-poletto.weebly.com/), investigates how France's population structure and travel patterns influence flu epidemics and virus evolution.
 
-We used an agent-based and data-driven ([INSEE](https://www.insee.fr/fr/accueil) census) model simulating the spread of influenza in France developed before (by [Livio Bioglio](http://www.di.unito.it/~biogliol/)) and modified by us to record detailed information on who-infected-who. That allows for precise tracking of the epidemic demographics and the spread of the virus. We validate the model with the [Réseau Sentinelles’ (RS)](https://www.sentiweb.fr/france/fr/?page=maladies) disease surveillance data.
+We adapted an agent-based model based on [INSEE](https://www.insee.fr/fr/accueil) census data, originally developed by [Livio Bioglio](http://www.di.unito.it/~biogliol/), to track infection chains and analyse epidemic dynamics. The model is validated using [Réseau Sentinelles](https://www.sentiweb.fr/france/fr/?page=maladies) surveillance data.
 
-My job is to modify the original ABM model (written in C++11) to meet the project's needs, process the INSEE and RS data to feed them into the model, calibrate parameters using the data and analyse the output. There's a lot of Python scripting for automated data processing (including scripts choosing parameters and launching simulations on their own).
+My role includes modifying the C++11 model, preparing data, calibrating parameters, and automating simulations with Python scripting. Synthetic population generated by the model was used in COVID-19 studies.
 
 ---------------------------------------------------------------
 
