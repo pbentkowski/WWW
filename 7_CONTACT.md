@@ -13,10 +13,10 @@ Find me on:
 
 &nbsp;
 
-[![My Twitter account](/public/twitter-logo.png)](https://twitter.com/PiterBentkowski)
+[![My Twitter account](/public/bluesky.png)](https://bsky.app/profile/pbentkowski.bsky.social)
 
 &nbsp;
 
 or e-mail me:
 
-![My Bitbucket repo](/public/ktkt.png)
+![My email](/public/ktkt.png)

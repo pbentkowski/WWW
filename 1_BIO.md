@@ -24,6 +24,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 ### WORK
 
 |--|--
+|**2025-now**|Software Dev at the [Regional Digital Medicine Centre](https://abm.gov.pl/en/polish-clinical-trials-network/regional-digital-medicine-cent/270,Regional-Digital-Medicine-Centres-RDMCs.html) at the [Military Institute of Medicine - National Research Institute](https://wim.mil.pl/)
 |**2021-2024**|Research fellow at the [Center for Systemic Risk Analysis](http://cbrs.uw.edu.pl/about/), University of Warsaw
 |**2020-2021**|Working in IT industry in Warsaw, Poland
 |**2017-2020**|Post-doc at the Pierre Louis Institute of Epidemiology and Public Health in Paris ([IPLESP](https://iplesp.fr/en) - joined research unit of the [INSERM](https://www.inserm.fr/en) and the [Sorbonne University](http://sante.sorbonne-universite.fr/)) working on modelling of spread and evolution of the influenza virus during seasonal epidemics in France
