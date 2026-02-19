@@ -9,8 +9,6 @@ My code can be found on Codeberg and (still) on GitHub. Unfortunately, some of m
 
 
 
-
-
 [![My GitHub repo](/public/GitHub_Logo.png)](https://github.com/pbentkowski)
 
 
