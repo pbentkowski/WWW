@@ -3,7 +3,13 @@ layout: page
 title: MY_REPOS
 ---
 
-My code can be found on GitHub. Unfortunately, some of my employment contracts did not allow me to make the projects' code public. And my Julia repos are still ongoing projects.
+My code can be found on Codeberg and (still) on GitHub. Unfortunately, some of my employment contracts did not allow me to make the projects' code public. And my Julia repos are still ongoing projects.
+
+[![My Codeberg repo](/public/Codeberg_logo_horizontal_BW.png)](https://codeberg.org/pbentkowski/)
+
+
+
+
 
 [![My GitHub repo](/public/GitHub_Logo.png)](https://github.com/pbentkowski)
 
