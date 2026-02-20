@@ -17,5 +17,5 @@ Currently, I work at the [Military Institute of Medicine - National Research Ins
 
 After hours, I am involved in [nature conservation](https://naukadlaprzyrody.pl/).
 
-Feel free to [**contact me** ](http://7_CONTACT) if you’d like to connect.
+Feel free to [**contact me** ](/7_CONTACT) if you’d like to connect.
 
