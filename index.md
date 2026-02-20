@@ -11,8 +11,11 @@ title: HOME
 
 &nbsp;
 
-I am a computational biologist with over a decade of research experience. My work focuses on unravelling complex biological processes through computational simulations and analysing large-scale data sets. Recently, my research has been centred on epidemiology and exploring how pharmaceutical pollutants affect animal behaviour.
+I am a computational biologist with experience in computer simulation and data analysis in evolutionary biology, epidemiology and biomedical science. My original background is in ecology and physics.
 
-My academic foundation combines evolutionary ecology and computational physics. I have significant experience working with large biological data sets, including RNA/DNA sequences, annotated genomes, and epidemiological surveillance data, as well as performing in-depth statistical analyses. Until recently, I was involved in developing data-driven epidemiological models at the University of Warsaw’s [Centre for Systemic Risk Analysis](https://cbrs.uw.edu.pl/en/about-the-centre/) and recently have moved to [Military Institute of Medicine - National Research Institute](https://wim.mil.pl/).
+Currently, I work at the [Military Institute of Medicine - National Research Institute](https://wim.mil.pl/) as a software and data engineer at the [Regional Digital Medicine Centre](https://abm.gov.pl/en/polish-clinical-trials-network/regional-digital-medicine-cent/270,Regional-Digital-Medicine-Centres-RDMCs.html). My work focuses on making large sets of health-related data available for academic and clinical research.
 
-Feel free to [**contact me**](7_CONTACT) if you'd like to connect.
+After hours, I am involved in [nature conservation](https://naukadlaprzyrody.pl/).
+
+Feel free to [**contact me** ](http://7_CONTACT) if you’d like to connect.
+

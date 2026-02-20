@@ -9,7 +9,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 
 ### THINGS I DID
 
-**Python :**  I coded various scrips combing through the directory tree in search of text files containing specific data (e.g. simulation results with particular parameters). The scripts segregate, compute, do statistics and plot the data  •  A lot of text data parsers  •  Scripts for automated computing on HPC clusters (automated selection of parameters,. 
+**Python :**  I coded various scrips for data analysis and simulations. The scripts segregated, computed, did statistics and visualise the data  •  A lot of text data parsers  •  Scripts for automated computing on HPC clusters (automated selection of parameters, automated reporting). 
 
 **C++ :**  I wrote from scratch two agent-based simulations and extended one already existing . They were all designated for launching on cluster computers.   •  Code mostly rely on STL objects (vectors, sets, etc.)  and some of Boosts routines   •   I used OpenMP for palatalisation of computations (I aimed at course parallelisation).
 
@@ -18,15 +18,15 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 ### CODING & COMPUTER
 
 |--|--
-|**Python**|Coding for data analysis and data visualisation: Numpy, Pandas, Scipy, Matplotlib, Seaborn, a bit of [Peewee](http://docs.peewee-orm.com/en/latest/), analysis of voluminous data (that cannot fit in RAM in one chunk)
+|**Python**|Coding for data analysis and data visualisation: Numpy, Pandas, Scipy, Matplotlib, Seaborn, SQLalchemy or [Peewee](http://docs.peewee-orm.com/en/latest/), analysis of voluminous data (that cannot fit in RAM in one chunk)
 |**C++**|Intermediate coder using C++ for building custom (and resonantly fast) [simulation](https://github.com/pbentkowski/MHC_Evolution) of complicated biological processes, big fan of the Standard Template Library and [Open MP](https://github.com/pbentkowski/Random-Numbers-and-Multithreading-in-C-11)
 |**Julia**|Learning Julia by rewriting some of my old code and starting new projects
-|**Linux**|Power user: scripting in Bash and a bit in AWK, good understanding of the system's backbone, no GUI required, using Linux since 2004
+|**Linux**|Power user: scripting in Bash, good understanding of the system's backbone, no GUI required, containers, using Linux since 2004 including HPC and cloud.
 |**Version control**|Using [git](https://bentkowski.net/repos.html) for version tracking and code sharing
-|**HPC**|Running computations on remote high power cluster computers, automation of large volumes of computations that can run for days without supervision
+|**HPC**|Running computations on remote high power cluster computers, automation of large volumes of computations that can run for days without supervision, some experience in managing multi-user environments
 |**MATLAB**|Limited experience in the past, later switched to Python (Matlab's license is a bit pricey)
 |**Big Data**|Studied [*Processing and Analysis of Big Data*](http://datascience.ii.pw.edu.pl/bigdata.html) (AWS, containtes, no-SQL data systems, etc.)
-|**ML&nbsp;/&nbsp;AI**|Used ML for automated detection of objects in videos.
+|**ML&nbsp;/&nbsp;AI**|Used ML for automated detection of objects in videos, natural language processing using LLMs 
 
 &nbsp;
 
