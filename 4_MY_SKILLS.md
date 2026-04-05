@@ -9,9 +9,9 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 
 ### THINGS I DID
 
-**Python :**  I coded various scrips for data analysis and simulations. The scripts segregated, computed, did statistics and visualise the data  •  A lot of text data parsers  •  Scripts for automated computing on HPC clusters (automated selection of parameters, automated reporting). 
+**Python :**  I coded various scripts for data analysis and simulations. The scripts segregated, computed, did statistics and visualised the data  •  A lot of text data parsers  •  Scripts for automated computing on HPC clusters (automated selection of parameters, automated reporting). 
 
-**C++ :**  I wrote from scratch two agent-based simulations and extended one already existing . They were all designated for launching on cluster computers.   •  Code mostly rely on STL objects (vectors, sets, etc.)  and some of Boosts routines   •   I used OpenMP for palatalisation of computations (I aimed at course parallelisation).
+**C++ :**  I wrote from scratch two agent-based simulations and extended one already existing one. They were all designed for launching on cluster computers.   •  Code mostly relies on STL objects (vectors, sets, etc.) and some of Boost's routines   •   I used OpenMP for parallelisation of computations (I aimed at coarse parallelisation).
 
 **Wet lab (biology) :**  Designed and performed experiments with small animals (zooplankton, fish)   •   Had some experience with laboratory methods of molecular biology.
 
@@ -22,7 +22,7 @@ For more detailed info on projects I did, see the tab [**RESEARCH**](/3_RESEARCH
 |**C++**|Intermediate coder using C++ for building custom (and resonantly fast) [simulation](https://github.com/pbentkowski/MHC_Evolution) of complicated biological processes, big fan of the Standard Template Library and [Open MP](https://github.com/pbentkowski/Random-Numbers-and-Multithreading-in-C-11)
 |**Julia**|Learning Julia by rewriting some of my old code and starting new projects
 |**Linux**|Power user: scripting in Bash, good understanding of the system's backbone, no GUI required, containers, using Linux since 2004 including HPC and cloud.
-|**Version control**|Using [git](https://bentkowski.net/repos.html) for version tracking and code sharing
+|**Version control**|Using [git](/5_MY_REPOS/) for version tracking and code sharing
 |**HPC**|Running computations on remote high power cluster computers, automation of large volumes of computations that can run for days without supervision, some experience in managing multi-user environments
 |**MATLAB**|Limited experience in the past, later switched to Python (Matlab's license is a bit pricey)
 |**Big Data**|Studied [*Processing and Analysis of Big Data*](http://datascience.ii.pw.edu.pl/bigdata.html) (AWS, containtes, no-SQL data systems, etc.)

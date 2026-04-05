@@ -1,15 +1,11 @@
 ---
 layout: default
-title: HOME
+title: Home
 ---
 
 ## Welcome! 
 
-&nbsp;
-
 ![Desk with a laptop](/public/work_desk.png)
-
-&nbsp;
 
 I am a computational biologist with experience in computer simulation and data analysis in evolutionary biology, epidemiology and biomedical science. My original background is in ecology and physics.
 
@@ -18,4 +14,3 @@ Currently, I work at the [Military Institute of Medicine - National Research Ins
 After hours, I am involved in [nature conservation](https://naukadlaprzyrody.pl/).
 
 Feel free to [**contact me** ](/7_CONTACT) if you’d like to connect.
-

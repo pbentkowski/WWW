@@ -9,9 +9,12 @@ permalink:        pretty
 title:            PIOTR BENTKOWSKI, PhD
 tagline:          'Computational biologist'
 face_image_pth:   '/public/piter_img_03.png'
-description:      '<b>></b> Computational biologist & modeller. Coding in Python &amp; learning Julia'
+description:      'Computational biologist and modeller. Coding in Python and learning Julia.'
+sidebar_description: '<b>></b> Computational biologist & modeller. Coding in Python &amp; learning Julia'
 url:              https://bentkowski.net
 base_path:        /
+locale:           en_US
+logo:             /public/piter_img_03.png
 twitter_username: piterbentkowski
 github_username:  pbentkowski
 repository: pbentkowski/WWW

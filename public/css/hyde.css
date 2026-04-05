@@ -55,12 +55,13 @@ html {
 
 .sidebar {
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 1.25rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
 @media (min-width: 48em) {
   .sidebar {
+    padding: 2rem 1rem;
     position: fixed;
     top: 0;
     left: 0;
@@ -76,20 +77,54 @@ html {
 }
 
 /* About section */
-.sidebar-about h1 {
+.sidebar-about {
+  margin-bottom: 1rem;
+}
+.sidebar-about h1,
+.sidebar-about h3 {
   color: #fff;
   margin-top: 0;
+  margin-bottom: .75rem;
   font-family: "Abril Fatface", serif;
-  font-size: 3.25rem;
+  font-size: 1.6rem;
+  line-height: 1.1;
+}
+.sidebar-about .faceimg img {
+  width: 96px;
+  margin: 0 auto .75rem;
+}
+.sidebar-about .lead {
+  margin-bottom: 0;
+  font-size: .9rem;
+}
+@media (min-width: 48em) {
+  .sidebar-about h1,
+  .sidebar-about h3 {
+    font-size: 2.2rem;
+  }
+  .sidebar-about .faceimg img {
+    width: auto;
+    margin: 0 0 1rem;
+  }
+  .sidebar-about .lead {
+    font-size: 0.95rem;
+  }
 }
 
 /* Sidebar nav */
 .sidebar-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .5rem;
   margin-bottom: 1rem;
 }
 .sidebar-nav-item {
-  display: block;
-  line-height: 1.75;
+  display: inline-block;
+  line-height: 1.2;
+  padding: .35rem .7rem;
+  border: 1px solid rgba(255,255,255,.35);
+  border-radius: 999px;
 }
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -97,6 +132,22 @@ a.sidebar-nav-item:focus {
 }
 .sidebar-nav-item.active {
   font-weight: bold;
+  background-color: rgba(255,255,255,.12);
+}
+@media (min-width: 48em) {
+  .sidebar-nav {
+    display: block;
+  }
+  .sidebar-nav-item {
+    display: block;
+    line-height: 1.75;
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+  }
+  .sidebar-nav-item.active {
+    background-color: transparent;
+  }
 }
 
 /* Sticky sidebar
@@ -122,12 +173,14 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
-  padding-bottom: 4rem;
+  padding-top:    2rem;
+  padding-bottom: 3rem;
 }
 
 @media (min-width: 48em) {
   .content {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
     max-width: 38rem;
     margin-left: 20rem;
     margin-right: 2rem;

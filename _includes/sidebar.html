@@ -6,8 +6,8 @@
           {{ site.title }}
         </a>
       </h3>
-      <p class="faceimg"><img src="{{ site.face_image_pth }}" class="center"></p>
-      <p class="lead">{{ site.description }}</p>
+      <p class="faceimg"><img src="{{ site.face_image_pth }}" class="center" alt="Portrait of Piotr Bentkowski"></p>
+      <p class="lead">{{ site.sidebar_description | default: site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
