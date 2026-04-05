@@ -85,9 +85,11 @@ html {
   color: #fff;
   margin-top: 0;
   margin-bottom: .75rem;
-  font-family: "Abril Fatface", serif;
-  font-size: 1.6rem;
-  line-height: 1.1;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: 1.55rem;
+  font-weight: 700;
+  letter-spacing: .02em;
+  line-height: 1.05;
 }
 .sidebar-about .faceimg img {
   width: 96px;
@@ -100,7 +102,7 @@ html {
 @media (min-width: 48em) {
   .sidebar-about h1,
   .sidebar-about h3 {
-    font-size: 2.2rem;
+    font-size: 2rem;
   }
   .sidebar-about .faceimg img {
     width: auto;
@@ -181,7 +183,7 @@ a.sidebar-nav-item:focus {
   .content {
     padding-top: 4rem;
     padding-bottom: 4rem;
-    max-width: 38rem;
+    max-width: 44rem;
     margin-left: 20rem;
     margin-right: 2rem;
   }
